@@ -1,0 +1,4946 @@
+[
+  {
+    "day": 1,
+    "title": "Day 1",
+    "file": "Lesson_01_Words_001-020.txt",
+    "audio": "Lesson_01_Words_001-020.mp3",
+    "words": [
+      {
+        "number": 1,
+        "word": "Opaque.",
+        "meaning": "Not clear; hard to understand.",
+        "examples": [
+          "The instructions were opaque, so I couldn’t understand them.",
+          "His explanation was too opaque for beginners."
+        ]
+      },
+      {
+        "number": 2,
+        "word": "Hands-on.",
+        "meaning": "Actively involved in doing something.",
+        "examples": [
+          "I prefer a hands-on approach to learning.",
+          "Our manager is very hands-on with the team."
+        ]
+      },
+      {
+        "number": 3,
+        "word": "Almost certainly.",
+        "meaning": "Very likely; nearly sure.",
+        "examples": [
+          "It will almost certainly rain today.",
+          "He will almost certainly win the match."
+        ]
+      },
+      {
+        "number": 4,
+        "word": "Whack.",
+        "meaning": "Hit strongly / try something quickly.",
+        "examples": [
+          "He whacked the ball across the field.",
+          "Let me take a whack at solving this problem."
+        ]
+      },
+      {
+        "number": 5,
+        "word": "Pause and ponder.",
+        "meaning": "Stop and think carefully.",
+        "examples": [
+          "Sometimes you should pause and ponder before making decisions.",
+          "I had to pause and ponder the question."
+        ]
+      },
+      {
+        "number": 6,
+        "word": "Dissipate.",
+        "meaning": "Gradually disappear or fade away.",
+        "examples": [
+          "My anger dissipated after some time.",
+          "The fog dissipated in the morning sunlight."
+        ]
+      },
+      {
+        "number": 7,
+        "word": "Erratic.",
+        "meaning": "Unpredictable; not regular.",
+        "examples": [
+          "His work schedule is very erratic.",
+          "The internet connection is erratic today."
+        ]
+      },
+      {
+        "number": 8,
+        "word": "Constraints.",
+        "meaning": "Limits or restrictions.",
+        "examples": [
+          "We finished the project despite time constraints.",
+          "Budget constraints affect our plans."
+        ]
+      },
+      {
+        "number": 9,
+        "word": "Abrasive.",
+        "meaning": "Rude or harsh in behavior.",
+        "examples": [
+          "His abrasive tone upset everyone.",
+          "She can be a bit abrasive when stressed."
+        ]
+      },
+      {
+        "number": 10,
+        "word": "Dysfunctional.",
+        "meaning": "Not working properly.",
+        "examples": [
+          "The team became dysfunctional due to poor communication.",
+          "Their management system is completely dysfunctional."
+        ]
+      },
+      {
+        "number": 11,
+        "word": "Peers.",
+        "meaning": "People of the same age or status.",
+        "examples": [
+          "We learn a lot from our peers.",
+          "He is respected by his peers."
+        ]
+      },
+      {
+        "number": 12,
+        "word": "Abundance.",
+        "meaning": "A very large amount.",
+        "examples": [
+          "There is an abundance of opportunities online.",
+          "The garden has an abundance of flowers."
+        ]
+      },
+      {
+        "number": 13,
+        "word": "Low-key.",
+        "meaning": "Simple, quiet, not flashy.",
+        "examples": [
+          "We had a low-key celebration at home.",
+          "He kept the event low-key."
+        ]
+      },
+      {
+        "number": 14,
+        "word": "Crummy.",
+        "meaning": "Very bad or poor quality.",
+        "examples": [
+          "The service at that hotel was crummy.",
+          "I had a crummy day at work."
+        ]
+      },
+      {
+        "number": 15,
+        "word": "Nagged.",
+        "meaning": "Repeatedly complained or reminded someone.",
+        "examples": [
+          "My mother nagged me to clean my room.",
+          "He felt nagged by constant questions."
+        ]
+      },
+      {
+        "number": 16,
+        "word": "Gloomy.",
+        "meaning": "Dark, sad, or depressing.",
+        "examples": [
+          "The weather looks gloomy today.",
+          "He felt gloomy after hearing the bad news."
+        ]
+      },
+      {
+        "number": 17,
+        "word": "Lunatic fringe view.",
+        "meaning": "Extreme or crazy opinion held by a small group.",
+        "examples": [
+          "Some people still believe that lunatic fringe views online.",
+          "That idea sounds like a lunatic fringe view to most scientists."
+        ]
+      },
+      {
+        "number": 18,
+        "word": "Equivalent.",
+        "meaning": "Equal in value or meaning.",
+        "examples": [
+          "One kilometer is equivalent to 1000 meters.",
+          "This job experience is equivalent to a degree."
+        ]
+      },
+      {
+        "number": 19,
+        "word": "Potbelly stove.",
+        "meaning": "A round metal stove used for heating rooms.",
+        "examples": [
+          "Old houses used potbelly stoves for warmth.",
+          "The cabin had a small potbelly stove in the corner."
+        ]
+      },
+      {
+        "number": 20,
+        "word": "Partly.",
+        "meaning": "To some degree, but not completely.",
+        "examples": [
+          "I was partly responsible for the mistake.",
+          "The road is partly closed today."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "title": "Day 2",
+    "file": "Lesson_02_Words_021-040.txt",
+    "audio": "Lesson_02_Words_021-040.mp3",
+    "words": [
+      {
+        "number": 21,
+        "word": "Virtue.",
+        "meaning": "A good moral quality.",
+        "examples": [
+          "Honesty is a great virtue.",
+          "Patience is an important virtue in business."
+        ]
+      },
+      {
+        "number": 22,
+        "word": "Nevertheless.",
+        "meaning": "In spite of that.",
+        "examples": [
+          "The work was difficult; nevertheless, we finished it.",
+          "It was raining; nevertheless, they continued the match."
+        ]
+      },
+      {
+        "number": 23,
+        "word": "Nonetheless.",
+        "meaning": "Despite what was said before.",
+        "examples": [
+          "The plan was risky; nonetheless, we tried it.",
+          "He was tired, nonetheless he kept working."
+        ]
+      },
+      {
+        "number": 24,
+        "word": "Repertoire.",
+        "meaning": "A collection of skills or things someone can do.",
+        "examples": [
+          "Communication is part of his professional repertoire.",
+          "She added new recipes to her cooking repertoire."
+        ]
+      },
+      {
+        "number": 25,
+        "word": "Exponential.",
+        "meaning": "Increasing very rapidly.",
+        "examples": [
+          "Technology is growing at an exponential rate.",
+          "The number of users increased exponentially."
+        ]
+      },
+      {
+        "number": 26,
+        "word": "Linear.",
+        "meaning": "Growing in a straight, steady way.",
+        "examples": [
+          "The company's growth has been linear this year.",
+          "Learning a language is rarely a linear process."
+        ]
+      },
+      {
+        "number": 27,
+        "word": "Superiority complex.",
+        "meaning": "Feeling that you are better than others.",
+        "examples": [
+          "He acts like he has a superiority complex.",
+          "A superiority complex can damage relationships."
+        ]
+      },
+      {
+        "number": 28,
+        "word": "Inferiority.",
+        "meaning": "Feeling less capable or less important.",
+        "examples": [
+          "He struggles with feelings of inferiority.",
+          "Don't let inferiority stop you from trying."
+        ]
+      },
+      {
+        "number": 29,
+        "word": "Be courteous.",
+        "meaning": "Be polite and respectful.",
+        "examples": [
+          "Always be courteous to customers.",
+          "It costs nothing to be courteous to others."
+        ]
+      },
+      {
+        "number": 30,
+        "word": "Conversely.",
+        "meaning": "In the opposite way.",
+        "examples": [
+          "Some people love working alone; conversely, others prefer teamwork.",
+          "Exercise improves health; conversely, inactivity harms it."
+        ]
+      },
+      {
+        "number": 31,
+        "word": "Vice versa.",
+        "meaning": "The opposite is also true.",
+        "examples": [
+          "Teachers learn from students and vice versa.",
+          "Good habits create success and vice versa."
+        ]
+      },
+      {
+        "number": 32,
+        "word": "Thoroughly.",
+        "meaning": "Completely; very carefully.",
+        "examples": [
+          "I thoroughly checked the report before sending it.",
+          "She thoroughly enjoyed the movie."
+        ]
+      },
+      {
+        "number": 33,
+        "word": "Contemplate.",
+        "meaning": "Think deeply about something.",
+        "examples": [
+          "I need time to contemplate this decision.",
+          "He sat quietly to contemplate his future plans."
+        ]
+      },
+      {
+        "number": 34,
+        "word": "Shabby.",
+        "meaning": "Old, worn out, or in poor condition.",
+        "examples": [
+          "He was wearing shabby clothes.",
+          "The hotel room looked shabby and poorly maintained."
+        ]
+      },
+      {
+        "number": 35,
+        "word": "Chores.",
+        "meaning": "Small routine tasks at home.",
+        "examples": [
+          "I finished my household chores early today.",
+          "Children should help with chores at home."
+        ]
+      },
+      {
+        "number": 36,
+        "word": "Derogatory.",
+        "meaning": "Showing disrespect or insult.",
+        "examples": [
+          "His derogatory comment upset everyone.",
+          "Avoid making derogatory remarks about others."
+        ]
+      },
+      {
+        "number": 37,
+        "word": "Barren.",
+        "meaning": "Empty; unable to grow plants.",
+        "examples": [
+          "The land was dry and barren.",
+          "Without creativity, ideas can become barren."
+        ]
+      },
+      {
+        "number": 38,
+        "word": "Uncanny.",
+        "meaning": "Strange in a surprising way.",
+        "examples": [
+          "He has an uncanny ability to remember names.",
+          "The twins look uncannily similar."
+        ]
+      },
+      {
+        "number": 39,
+        "word": "Distinct.",
+        "meaning": "Clearly different or separate.",
+        "examples": [
+          "There are distinct differences between the two plans.",
+          "Her voice is very distinct."
+        ]
+      },
+      {
+        "number": 40,
+        "word": "Distinguish.",
+        "meaning": "Recognize the difference between things.",
+        "examples": [
+          "It’s hard to distinguish truth from rumors.",
+          "Experience helps you distinguish good ideas from bad ones."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "title": "Day 3",
+    "file": "Lesson_03_Words_041-060.txt",
+    "audio": "Lesson_03_Words_041-060.mp3",
+    "words": [
+      {
+        "number": 41,
+        "word": "Reluctantly.",
+        "meaning": "Doing something unwillingly.",
+        "examples": [
+          "He reluctantly agreed to help.",
+          "She reluctantly apologized."
+        ]
+      },
+      {
+        "number": 42,
+        "word": "Resentment.",
+        "meaning": "Bitter anger due to unfair treatment.",
+        "examples": [
+          "His criticism created resentment among employees.",
+          "Holding resentment only harms you."
+        ]
+      },
+      {
+        "number": 43,
+        "word": "Arguments.",
+        "meaning": "Disagreements or conflicts.",
+        "examples": [
+          "They had many arguments about money.",
+          "Small issues often turn into big arguments."
+        ]
+      },
+      {
+        "number": 44,
+        "word": "Necessarily.",
+        "meaning": "In a required or unavoidable way.",
+        "examples": [
+          "Hard work doesn't necessarily guarantee success.",
+          "Expensive things aren't necessarily better."
+        ]
+      },
+      {
+        "number": 45,
+        "word": "Adversity.",
+        "meaning": "Difficult situations or hardships.",
+        "examples": [
+          "Great leaders often grow through adversity.",
+          "She stayed strong despite adversity."
+        ]
+      },
+      {
+        "number": 46,
+        "word": "Diversion.",
+        "meaning": "Something that distracts or entertains.",
+        "examples": [
+          "Watching a movie was a nice diversion from work.",
+          "Social media can become a big diversion."
+        ]
+      },
+      {
+        "number": 47,
+        "word": "Chinese Parable.",
+        "meaning": "A short traditional Chinese story that teaches a lesson.",
+        "examples": [
+          "My teacher shared a Chinese parable about patience.",
+          "Many Chinese parables contain deep wisdom."
+        ]
+      },
+      {
+        "number": 48,
+        "word": "Double down.",
+        "meaning": "Continue strongly with a decision.",
+        "examples": [
+          "The company decided to double down on its strategy.",
+          "Instead of quitting, he doubled down on his efforts."
+        ]
+      },
+      {
+        "number": 49,
+        "word": "Fuzzy.",
+        "meaning": "Not clear or blurry.",
+        "examples": [
+          "My memory of that event is fuzzy.",
+          "The picture looks fuzzy."
+        ]
+      },
+      {
+        "number": 50,
+        "word": "Materialistic.",
+        "meaning": "Caring too much about money or possessions.",
+        "examples": [
+          "He became too materialistic after getting rich.",
+          "A materialistic lifestyle doesn't guarantee happiness."
+        ]
+      },
+      {
+        "number": 51,
+        "word": "Comprehend.",
+        "meaning": "To fully understand something.",
+        "examples": [
+          "It took time to comprehend the problem.",
+          "Students must comprehend the concept before solving questions."
+        ]
+      },
+      {
+        "number": 52,
+        "word": "Coping mechanism.",
+        "meaning": "A way people deal with stress or problems.",
+        "examples": [
+          "Exercise is my coping mechanism when I feel stressed.",
+          "Some people use humor as a coping mechanism."
+        ]
+      },
+      {
+        "number": 53,
+        "word": "Anecdotal evidence.",
+        "meaning": "Evidence based on personal stories, not scientific proof.",
+        "examples": [
+          "That claim is based only on anecdotal evidence.",
+          "My experience is just anecdotal evidence, not real research."
+        ]
+      },
+      {
+        "number": 54,
+        "word": "Accountable.",
+        "meaning": "Responsible for something.",
+        "examples": [
+          "Leaders must be accountable for their decisions.",
+          "Everyone should be accountable for their work."
+        ]
+      },
+      {
+        "number": 55,
+        "word": "Quote-unquote.",
+        "meaning": "Used when repeating someone else's words.",
+        "examples": [
+          "He said he is “quote-unquote busy.”",
+          "She called herself a “quote-unquote expert.”"
+        ]
+      },
+      {
+        "number": 56,
+        "word": "Anecdotal.",
+        "meaning": "Based on personal stories rather than facts.",
+        "examples": [
+          "His argument is mostly anecdotal.",
+          "The report includes anecdotal examples."
+        ]
+      },
+      {
+        "number": 57,
+        "word": "Emulate.",
+        "meaning": "Try to copy or match someone’s success.",
+        "examples": [
+          "Many entrepreneurs try to emulate successful leaders.",
+          "Children often emulate their parents."
+        ]
+      },
+      {
+        "number": 58,
+        "word": "The Swiss.",
+        "meaning": "People from Switzerland.",
+        "examples": [
+          "The Swiss are known for precision and quality.",
+          "Many people admire the neutrality of the Swiss."
+        ]
+      },
+      {
+        "number": 59,
+        "word": "Unlike.",
+        "meaning": "Different from something else.",
+        "examples": [
+          "Unlike last year, business is growing now.",
+          "Unlike him, I prefer working alone."
+        ]
+      },
+      {
+        "number": 60,
+        "word": "Ingenuity.",
+        "meaning": "Cleverness and creativity in solving problems.",
+        "examples": [
+          "The invention shows great ingenuity.",
+          "Human ingenuity solves many problems."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "title": "Day 4",
+    "file": "Lesson_04_Words_061-080.txt",
+    "audio": "Lesson_04_Words_061-080.mp3",
+    "words": [
+      {
+        "number": 61,
+        "word": "Conceive.",
+        "meaning": "To think of or imagine an idea.",
+        "examples": [
+          "It’s hard to conceive such a complex plan.",
+          "She conceived a brilliant business idea."
+        ]
+      },
+      {
+        "number": 62,
+        "word": "Extremism.",
+        "meaning": "Very radical or extreme beliefs.",
+        "examples": [
+          "Society should reject extremism.",
+          "Extremism often creates conflict."
+        ]
+      },
+      {
+        "number": 63,
+        "word": "Went out of business.",
+        "meaning": "A company closed permanently.",
+        "examples": [
+          "Many shops went out of business during the pandemic.",
+          "The restaurant went out of business last year."
+        ]
+      },
+      {
+        "number": 64,
+        "word": "Democracy, capitalism, communism.",
+        "meaning": "Different political/economic systems.",
+        "examples": [
+          "Democracy focuses on people’s voting power.",
+          "Capitalism allows private ownership and free markets. 3. Communism promotes collective ownership."
+        ]
+      },
+      {
+        "number": 65,
+        "word": "Existential tension.",
+        "meaning": "Deep anxiety about meaning or purpose of life.",
+        "examples": [
+          "Many people feel existential tension in uncertain times.",
+          "Philosophy often explores existential tension."
+        ]
+      },
+      {
+        "number": 66,
+        "word": "Detriment.",
+        "meaning": "Harm or damage.",
+        "examples": [
+          "Too much stress is a detriment to health.",
+          "Ignoring feedback can be a detriment to growth."
+        ]
+      },
+      {
+        "number": 67,
+        "word": "Benefits and detractors.",
+        "meaning": "Supporters and critics of something.",
+        "examples": [
+          "Every technology has benefits and detractors.",
+          "The policy has many benefits and detractors."
+        ]
+      },
+      {
+        "number": 68,
+        "word": "Corollary.",
+        "meaning": "A natural result or conclusion.",
+        "examples": [
+          "A corollary of hard work is success.",
+          "A logical corollary follows from this idea."
+        ]
+      },
+      {
+        "number": 69,
+        "word": "Awful.",
+        "meaning": "Very bad or unpleasant.",
+        "examples": [
+          "The food tasted awful.",
+          "I had an awful headache yesterday."
+        ]
+      },
+      {
+        "number": 70,
+        "word": "Plenty.",
+        "meaning": "More than enough.",
+        "examples": [
+          "We have plenty of time.",
+          "There are plenty of opportunities online."
+        ]
+      },
+      {
+        "number": 71,
+        "word": "Ridiculous.",
+        "meaning": "Very silly or unreasonable.",
+        "examples": [
+          "That price is ridiculous.",
+          "His excuse sounded ridiculous."
+        ]
+      },
+      {
+        "number": 72,
+        "word": "High and mighty.",
+        "meaning": "Acting superior or arrogant.",
+        "examples": [
+          "He acts high and mighty around others.",
+          "Don’t behave high and mighty with your team."
+        ]
+      },
+      {
+        "number": 73,
+        "word": "Reinforce.",
+        "meaning": "Strengthen or support something.",
+        "examples": [
+          "Good habits reinforce success.",
+          "The teacher reinforced the idea with examples."
+        ]
+      },
+      {
+        "number": 74,
+        "word": "Humility.",
+        "meaning": "Being humble; not arrogant.",
+        "examples": [
+          "True leaders show humility.",
+          "Success should be balanced with humility."
+        ]
+      },
+      {
+        "number": 75,
+        "word": "Camaraderie.",
+        "meaning": "Friendly trust among people.",
+        "examples": [
+          "There is great camaraderie in our team.",
+          "Sports often build camaraderie."
+        ]
+      },
+      {
+        "number": 76,
+        "word": "Espresso and core.",
+        "meaning": "A strong coffee / “core” means central part.",
+        "examples": [
+          "I start my day with an espresso.",
+          "Discipline is the core of success."
+        ]
+      },
+      {
+        "number": 77,
+        "word": "Pull over.",
+        "meaning": "Stop a vehicle at the side of the road.",
+        "examples": [
+          "The police asked him to pull over.",
+          "Let’s pull over and check the map."
+        ]
+      },
+      {
+        "number": 78,
+        "word": "Enlisted.",
+        "meaning": "Joined the military or a service.",
+        "examples": [
+          "He enlisted in the army at 20.",
+          "Many young people enlist to serve their country."
+        ]
+      },
+      {
+        "number": 79,
+        "word": "Fraternizing.",
+        "meaning": "Socializing in a friendly way (sometimes improperly).",
+        "examples": [
+          "Employees are not allowed to fraternize with clients too much.",
+          "The soldiers were warned about fraternizing."
+        ]
+      },
+      {
+        "number": 80,
+        "word": "Articulated.",
+        "meaning": "Expressed clearly in words.",
+        "examples": [
+          "She articulated her ideas very well.",
+          "The speaker articulated the problem clearly."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 5,
+    "title": "Day 5",
+    "file": "Lesson_05_Words_081-100.txt",
+    "audio": "Lesson_05_Words_081-100.mp3",
+    "words": [
+      {
+        "number": 81,
+        "word": "Cynically.",
+        "meaning": "In a distrustful or negative way.",
+        "examples": [
+          "He cynically laughed at the proposal.",
+          "She cynically questioned their intentions."
+        ]
+      },
+      {
+        "number": 82,
+        "word": "Stimulated.",
+        "meaning": "Encouraged activity or interest.",
+        "examples": [
+          "The discussion stimulated new ideas.",
+          "The book stimulated my curiosity."
+        ]
+      },
+      {
+        "number": 83,
+        "word": "Rumination.",
+        "meaning": "Deep or repetitive thinking about something.",
+        "examples": [
+          "Too much rumination can cause stress.",
+          "He spent the evening in quiet rumination."
+        ]
+      },
+      {
+        "number": 84,
+        "word": "Let me vent.",
+        "meaning": "Let me express my frustration.",
+        "examples": [
+          "I had a bad day; let me vent for a minute.",
+          "Sometimes people just need to vent."
+        ]
+      },
+      {
+        "number": 85,
+        "word": "Fatigue.",
+        "meaning": "Extreme tiredness.",
+        "examples": [
+          "Long work hours cause fatigue.",
+          "He felt mental fatigue after studying all day."
+        ]
+      },
+      {
+        "number": 86,
+        "word": "Rundown.",
+        "meaning": "A brief explanation or summary.",
+        "examples": [
+          "Give me a quick rundown of the meeting.",
+          "He gave a rundown of the project status."
+        ]
+      },
+      {
+        "number": 87,
+        "word": "Optimist.",
+        "meaning": "Someone who expects good outcomes.",
+        "examples": [
+          "She is an optimist about the future.",
+          "An optimist sees opportunities everywhere."
+        ]
+      },
+      {
+        "number": 88,
+        "word": "Exhausted.",
+        "meaning": "Extremely tired.",
+        "examples": [
+          "I was exhausted after the workout.",
+          "He felt exhausted after working late."
+        ]
+      },
+      {
+        "number": 89,
+        "word": "Driven by.",
+        "meaning": "Motivated or powered by something.",
+        "examples": [
+          "He is driven by ambition.",
+          "Innovation is driven by curiosity."
+        ]
+      },
+      {
+        "number": 90,
+        "word": "Get to choose.",
+        "meaning": "Have the opportunity to select.",
+        "examples": [
+          "You get to choose your career path.",
+          "Customers get to choose different options."
+        ]
+      },
+      {
+        "number": 91,
+        "word": "Paradox.",
+        "meaning": "A situation that seems contradictory but may be true.",
+        "examples": [
+          "It’s a paradox that success can bring stress.",
+          "The idea sounds like a paradox."
+        ]
+      },
+      {
+        "number": 92,
+        "word": "Piece of advice.",
+        "meaning": "A helpful suggestion.",
+        "examples": [
+          "Let me give you a piece of advice.",
+          "My father gave me a valuable piece of advice."
+        ]
+      },
+      {
+        "number": 93,
+        "word": "Simultaneously.",
+        "meaning": "At the same time.",
+        "examples": [
+          "He managed two projects simultaneously.",
+          "The lights turned on simultaneously."
+        ]
+      },
+      {
+        "number": 94,
+        "word": "Affirmation machine.",
+        "meaning": "Something that constantly gives praise or approval.",
+        "examples": [
+          "Social media sometimes becomes an affirmation machine.",
+          "People often look for an affirmation machine online."
+        ]
+      },
+      {
+        "number": 95,
+        "word": "Affirmations.",
+        "meaning": "Positive statements to encourage confidence.",
+        "examples": [
+          "Daily affirmations can improve mindset.",
+          "She starts her morning with affirmations."
+        ]
+      },
+      {
+        "number": 96,
+        "word": "Moderate.",
+        "meaning": "Not extreme; balanced.",
+        "examples": [
+          "A moderate approach works best.",
+          "Exercise in moderate amounts is healthy."
+        ]
+      },
+      {
+        "number": 97,
+        "word": "Seek validation.",
+        "meaning": "Look for approval from others.",
+        "examples": [
+          "Many people seek validation on social media.",
+          "You shouldn't always seek validation from others."
+        ]
+      },
+      {
+        "number": 98,
+        "word": "Grit.",
+        "meaning": "Courage and determination to keep going.",
+        "examples": [
+          "Success often requires grit.",
+          "She achieved her goals through pure grit."
+        ]
+      },
+      {
+        "number": 99,
+        "word": "Confrontation.",
+        "meaning": "A direct disagreement or conflict.",
+        "examples": [
+          "I try to avoid unnecessary confrontation.",
+          "The meeting turned into a heated confrontation."
+        ]
+      },
+      {
+        "number": 100,
+        "word": "Part of the equation.",
+        "meaning": "One factor in a situation.",
+        "examples": [
+          "Hard work is only part of the equation.",
+          "Money is part of the equation, but not everything."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 6,
+    "title": "Day 6",
+    "file": "Lesson_06_Words_101-120.txt",
+    "audio": "Lesson_06_Words_101-120.mp3",
+    "words": [
+      {
+        "number": 101,
+        "word": "Conflict avoidance.",
+        "meaning": "Trying to avoid disagreements.",
+        "examples": [
+          "His conflict avoidance sometimes causes bigger problems.",
+          "Conflict avoidance is common in many workplaces."
+        ]
+      },
+      {
+        "number": 102,
+        "word": "Did it with wide eyes open.",
+        "meaning": "Did something fully aware of the risks.",
+        "examples": [
+          "I started the business with my eyes wide open.",
+          "She entered the deal with her eyes wide open."
+        ]
+      },
+      {
+        "number": 103,
+        "word": "Binary construction.",
+        "meaning": "Thinking in only two options (yes/no, right/wrong).",
+        "examples": [
+          "The problem isn’t a binary construction.",
+          "Life decisions are rarely binary."
+        ]
+      },
+      {
+        "number": 104,
+        "word": "Wax and wane.",
+        "meaning": "Rise and fall over time.",
+        "examples": [
+          "Motivation tends to wax and wane.",
+          "Interest in trends often waxes and wanes."
+        ]
+      },
+      {
+        "number": 105,
+        "word": "Applauded.",
+        "meaning": "Praised or appreciated.",
+        "examples": [
+          "The audience applauded his speech.",
+          "Her effort was widely applauded."
+        ]
+      },
+      {
+        "number": 106,
+        "word": "Got you covered.",
+        "meaning": "Means someone will take care of it.",
+        "examples": [
+          "Don’t worry, I’ve got you covered.",
+          "If you miss the meeting, I’ll cover the notes for you."
+        ]
+      },
+      {
+        "number": 107,
+        "word": "Balancing act.",
+        "meaning": "Trying to manage multiple things at once.",
+        "examples": [
+          "Work-life balance is a constant balancing act.",
+          "Managing a business is a balancing act."
+        ]
+      },
+      {
+        "number": 108,
+        "word": "Adversely proportionate (likely “inversely proportionate”).",
+        "meaning": "When one increases, the other decreases.",
+        "examples": [
+          "Stress is often inversely proportionate to preparation.",
+          "Price and demand can be inversely proportionate."
+        ]
+      },
+      {
+        "number": 109,
+        "word": "Goes hand in hand.",
+        "meaning": "Two things are closely connected.",
+        "examples": [
+          "Success goes hand in hand with discipline.",
+          "Trust and communication go hand in hand."
+        ]
+      },
+      {
+        "number": 110,
+        "word": "Flashiest.",
+        "meaning": "Most showy or attention-grabbing.",
+        "examples": [
+          "He bought the flashiest car in the showroom.",
+          "The flashiest designs often attract customers."
+        ]
+      },
+      {
+        "number": 111,
+        "word": "Pay attention.",
+        "meaning": "Focus carefully.",
+        "examples": [
+          "Pay attention to the details.",
+          "You should pay attention during meetings."
+        ]
+      },
+      {
+        "number": 112,
+        "word": "Show up.",
+        "meaning": "Arrive or appear.",
+        "examples": [
+          "Success often means just showing up every day.",
+          "He didn’t show up to the meeting."
+        ]
+      },
+      {
+        "number": 113,
+        "word": "Screw up.",
+        "meaning": "Make a mistake.",
+        "examples": [
+          "Everyone screws up sometimes.",
+          "I really screwed up that presentation."
+        ]
+      },
+      {
+        "number": 114,
+        "word": "Stakes are low (correct phrase).",
+        "meaning": "The risk or consequences are small.",
+        "examples": [
+          "Try new ideas when the stakes are low.",
+          "Practice when the stakes are low, perform when they’re high."
+        ]
+      },
+      {
+        "number": 115,
+        "word": "Eternal.",
+        "meaning": "Lasting forever; never ending.",
+        "examples": [
+          "People often search for eternal happiness.",
+          "Their friendship felt almost eternal."
+        ]
+      },
+      {
+        "number": 116,
+        "word": "Never sought understanding.",
+        "meaning": "Never tried to understand something.",
+        "examples": [
+          "He criticized the idea but never sought understanding.",
+          "Many conflicts happen because people never seek understanding."
+        ]
+      },
+      {
+        "number": 117,
+        "word": "Enduring loneliness.",
+        "meaning": "Long-lasting feeling of being alone.",
+        "examples": [
+          "Moving to a new city can cause enduring loneliness.",
+          "Some elderly people suffer from enduring loneliness."
+        ]
+      },
+      {
+        "number": 118,
+        "word": "Inevitable.",
+        "meaning": "Certain to happen; unavoidable.",
+        "examples": [
+          "Change is inevitable in life.",
+          "Mistakes are inevitable when you try new things."
+        ]
+      },
+      {
+        "number": 119,
+        "word": "Despair.",
+        "meaning": "Complete loss of hope.",
+        "examples": [
+          "He felt deep despair after the failure.",
+          "Don’t let temporary problems lead to despair."
+        ]
+      },
+      {
+        "number": 120,
+        "word": "Something’s off.",
+        "meaning": "Something feels wrong or unusual.",
+        "examples": [
+          "I don’t know why, but something’s off today.",
+          "The numbers look strange—something’s off."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 7,
+    "title": "Day 7",
+    "file": "Lesson_07_Words_121-140.txt",
+    "audio": "Lesson_07_Words_121-140.mp3",
+    "words": [
+      {
+        "number": 121,
+        "word": "Crevice.",
+        "meaning": "A narrow crack or gap.",
+        "examples": [
+          "The plant grew from a crevice in the rock.",
+          "Water flowed through a small crevice."
+        ]
+      },
+      {
+        "number": 122,
+        "word": "Adulterated.",
+        "meaning": "Mixed with something impure; not pure.",
+        "examples": [
+          "The food was adulterated with harmful chemicals.",
+          "People worry about adulterated milk in some markets."
+        ]
+      },
+      {
+        "number": 123,
+        "word": "Keen eye.",
+        "meaning": "Ability to notice small details.",
+        "examples": [
+          "A designer must have a keen eye for detail.",
+          "She spotted the mistake with a keen eye."
+        ]
+      },
+      {
+        "number": 124,
+        "word": "Apocalypse.",
+        "meaning": "A catastrophic end or disaster.",
+        "examples": [
+          "The movie shows a world after an apocalypse.",
+          "Some people talk about climate change like an apocalypse."
+        ]
+      },
+      {
+        "number": 125,
+        "word": "Bigotry.",
+        "meaning": "Intolerance toward people with different beliefs.",
+        "examples": [
+          "Society must reject bigotry.",
+          "Education helps reduce bigotry."
+        ]
+      },
+      {
+        "number": 126,
+        "word": "Out of the blue.",
+        "meaning": "Suddenly and unexpectedly.",
+        "examples": [
+          "He called me out of the blue after years.",
+          "The opportunity came out of the blue."
+        ]
+      },
+      {
+        "number": 127,
+        "word": "Consideration.",
+        "meaning": "Careful thought before deciding.",
+        "examples": [
+          "After careful consideration, we accepted the offer.",
+          "Thank you for your consideration."
+        ]
+      },
+      {
+        "number": 128,
+        "word": "Goofing around.",
+        "meaning": "Acting silly or joking.",
+        "examples": [
+          "The kids were goofing around in the park.",
+          "Stop goofing around and focus on work."
+        ]
+      },
+      {
+        "number": 129,
+        "word": "Appeal.",
+        "meaning": "Attraction or a request for support.",
+        "examples": [
+          "The product has strong appeal to young buyers.",
+          "He made an appeal for help."
+        ]
+      },
+      {
+        "number": 130,
+        "word": "Pile.",
+        "meaning": "A large stack of things.",
+        "examples": [
+          "There is a pile of work on my desk.",
+          "Books were lying in a pile."
+        ]
+      },
+      {
+        "number": 131,
+        "word": "Affirmative.",
+        "meaning": "Showing agreement or approval.",
+        "examples": [
+          "She gave an affirmative response.",
+          "The answer was clearly affirmative."
+        ]
+      },
+      {
+        "number": 132,
+        "word": "Argumentative.",
+        "meaning": "Always ready to argue.",
+        "examples": [
+          "He becomes argumentative during debates.",
+          "Being too argumentative can harm relationships."
+        ]
+      },
+      {
+        "number": 133,
+        "word": "Misperceive.",
+        "meaning": "Understand something incorrectly.",
+        "examples": [
+          "People sometimes misperceive confidence as arrogance.",
+          "Don’t misperceive his silence as weakness."
+        ]
+      },
+      {
+        "number": 134,
+        "word": "Distilled.",
+        "meaning": "Made pure or simplified.",
+        "examples": [
+          "The book distilled complex ideas into simple lessons.",
+          "Wisdom often comes from distilled experience."
+        ]
+      },
+      {
+        "number": 135,
+        "word": "Backhanded compliment.",
+        "meaning": "A compliment that actually insults.",
+        "examples": [
+          "Saying “You’re smart for your age” can be a backhanded compliment.",
+          "His praise sounded like a backhanded compliment."
+        ]
+      },
+      {
+        "number": 136,
+        "word": "Misperception.",
+        "meaning": "A wrong understanding of something.",
+        "examples": [
+          "There is a misperception about this policy.",
+          "The media sometimes creates misperceptions."
+        ]
+      },
+      {
+        "number": 137,
+        "word": "Assumption.",
+        "meaning": "Something you believe without proof.",
+        "examples": [
+          "Don’t make an assumption without facts.",
+          "His decision was based on a wrong assumption."
+        ]
+      },
+      {
+        "number": 138,
+        "word": "Introspection.",
+        "meaning": "Looking inward and thinking about your thoughts or actions.",
+        "examples": [
+          "I spent some time in introspection after the failure.",
+          "Introspection helps you understand yourself better."
+        ]
+      },
+      {
+        "number": 139,
+        "word": "Grazed.",
+        "meaning": "Lightly touched or slightly injured.",
+        "examples": [
+          "I grazed my knee while playing football.",
+          "The bullet grazed his arm."
+        ]
+      },
+      {
+        "number": 140,
+        "word": "Embodiment.",
+        "meaning": "A perfect example of something.",
+        "examples": [
+          "She is the embodiment of kindness.",
+          "The athlete is the embodiment of discipline."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 8,
+    "title": "Day 8",
+    "file": "Lesson_08_Words_141-160.txt",
+    "audio": "Lesson_08_Words_141-160.mp3",
+    "words": [
+      {
+        "number": 141,
+        "word": "Fact of the matter.",
+        "meaning": "The real truth of a situation.",
+        "examples": [
+          "The fact of the matter is that we need more time.",
+          "The fact of the matter is that success requires effort."
+        ]
+      },
+      {
+        "number": 142,
+        "word": "Monopoly.",
+        "meaning": "When one company controls a market.",
+        "examples": [
+          "The company has a monopoly in that industry.",
+          "Governments often regulate monopolies."
+        ]
+      },
+      {
+        "number": 143,
+        "word": "Anomaly (correct spelling).",
+        "meaning": "Something unusual or different from normal.",
+        "examples": [
+          "The sudden drop in sales was an anomaly.",
+          "Scientists noticed an anomaly in the data."
+        ]
+      },
+      {
+        "number": 144,
+        "word": "Procession.",
+        "meaning": "A group of people moving together in a formal way.",
+        "examples": [
+          "The wedding procession moved slowly through the street.",
+          "A procession followed the ceremony."
+        ]
+      },
+      {
+        "number": 145,
+        "word": "Certainty (correct spelling).",
+        "meaning": "Being completely sure about something.",
+        "examples": [
+          "There is no certainty about the future.",
+          "She spoke with great certainty."
+        ]
+      },
+      {
+        "number": 146,
+        "word": "Revelation.",
+        "meaning": "A surprising discovery or realization.",
+        "examples": [
+          "The documentary was a revelation for me.",
+          "It was a shocking revelation."
+        ]
+      },
+      {
+        "number": 147,
+        "word": "Spontaneous.",
+        "meaning": "Done naturally without planning.",
+        "examples": [
+          "The trip was completely spontaneous.",
+          "His reaction was spontaneous."
+        ]
+      },
+      {
+        "number": 148,
+        "word": "Perhaps.",
+        "meaning": "Maybe; possibly.",
+        "examples": [
+          "Perhaps we should try another approach.",
+          "Perhaps he will join us later."
+        ]
+      },
+      {
+        "number": 149,
+        "word": "Pose yourself (a question).",
+        "meaning": "Ask yourself something to think deeply.",
+        "examples": [
+          "Pose yourself an important question: what do you really want?",
+          "Sometimes you should pose yourself difficult questions."
+        ]
+      },
+      {
+        "number": 150,
+        "word": "Revelatory and critical.",
+        "meaning": "Revealing important truth and analyzing it.",
+        "examples": [
+          "The book is both revelatory and critical of society.",
+          "His speech was revelatory and critical."
+        ]
+      },
+      {
+        "number": 151,
+        "word": "Manifest.",
+        "meaning": "To show or make something clear.",
+        "examples": [
+          "His confidence manifested in his actions.",
+          "Success often manifests through consistent effort."
+        ]
+      },
+      {
+        "number": 152,
+        "word": "Other way around.",
+        "meaning": "The opposite order or direction.",
+        "examples": [
+          "I thought he called me, but it was the other way around.",
+          "Cause and effect sometimes work the other way around."
+        ]
+      },
+      {
+        "number": 153,
+        "word": "Got humbled by.",
+        "meaning": "Became modest after realizing limits.",
+        "examples": [
+          "He got humbled by the tough competition.",
+          "The experience humbled him."
+        ]
+      },
+      {
+        "number": 154,
+        "word": "Pressure was on.",
+        "meaning": "A situation where expectations are high.",
+        "examples": [
+          "In the final match, the pressure was on.",
+          "When the deadline came closer, the pressure was on."
+        ]
+      },
+      {
+        "number": 155,
+        "word": "In a bit of a pickle.",
+        "meaning": "In a difficult or tricky situation.",
+        "examples": [
+          "I’m in a bit of a pickle with this project.",
+          "He got into a pickle after missing the deadline."
+        ]
+      },
+      {
+        "number": 156,
+        "word": "Take someone to the glory land.",
+        "meaning": "To defeat someone completely or embarrass them badly.",
+        "examples": [
+          "The champion took his opponent to the glory land in the match.",
+          "Our team took them to the glory land in the final game."
+        ]
+      },
+      {
+        "number": 157,
+        "word": "Shenanigans.",
+        "meaning": "Silly or dishonest tricks or behavior.",
+        "examples": [
+          "The kids were up to their usual shenanigans.",
+          "There were some political shenanigans behind the decision."
+        ]
+      },
+      {
+        "number": 158,
+        "word": "Smug.",
+        "meaning": "Too pleased with yourself.",
+        "examples": [
+          "He looked smug after winning the argument.",
+          "Don’t act smug just because you succeeded once."
+        ]
+      },
+      {
+        "number": 159,
+        "word": "Condescending.",
+        "meaning": "Acting like you are better than others.",
+        "examples": [
+          "His tone sounded condescending.",
+          "Nobody likes a condescending attitude."
+        ]
+      },
+      {
+        "number": 160,
+        "word": "Desolation.",
+        "meaning": "Extreme emptiness or loneliness.",
+        "examples": [
+          "The abandoned town looked full of desolation.",
+          "He felt a sense of desolation after the loss."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 9,
+    "title": "Day 9",
+    "file": "Lesson_09_Words_161-180.txt",
+    "audio": "Lesson_09_Words_161-180.mp3",
+    "words": [
+      {
+        "number": 161,
+        "word": "Straighten out.",
+        "meaning": "Fix or solve a problem.",
+        "examples": [
+          "We need to straighten out this misunderstanding.",
+          "Let’s straighten out the issue before it grows bigger."
+        ]
+      },
+      {
+        "number": 162,
+        "word": "Look me dead in the eyes.",
+        "meaning": "Look directly and honestly at someone.",
+        "examples": [
+          "He looked me dead in the eyes and told the truth.",
+          "If you believe it, look me dead in the eyes and say it."
+        ]
+      },
+      {
+        "number": 163,
+        "word": "More or less.",
+        "meaning": "Approximately or almost.",
+        "examples": [
+          "I’m more or less finished with the work.",
+          "The plan is more or less ready."
+        ]
+      },
+      {
+        "number": 164,
+        "word": "Feud.",
+        "meaning": "Long-lasting conflict between people.",
+        "examples": [
+          "The families had a feud for many years.",
+          "Their business feud became famous."
+        ]
+      },
+      {
+        "number": 165,
+        "word": "Bump into.",
+        "meaning": "Meet someone unexpectedly.",
+        "examples": [
+          "I bumped into an old friend yesterday.",
+          "You never know who you might bump into in this city."
+        ]
+      },
+      {
+        "number": 166,
+        "word": "Ok chill.",
+        "meaning": "Relax or calm down.",
+        "examples": [
+          "Okay, chill, it’s not a big problem.",
+          "Just chill, everything will work out."
+        ]
+      },
+      {
+        "number": 167,
+        "word": "Cheeky.",
+        "meaning": "Slightly rude but playful.",
+        "examples": [
+          "He made a cheeky comment.",
+          "That was a cheeky joke."
+        ]
+      },
+      {
+        "number": 168,
+        "word": "Demean me.",
+        "meaning": "Make someone feel less important or humiliated.",
+        "examples": [
+          "Please don’t demean me in front of others.",
+          "His words seemed to demean her."
+        ]
+      },
+      {
+        "number": 169,
+        "word": "Mutt.",
+        "meaning": "A mixed-breed dog (sometimes used jokingly for a person).",
+        "examples": [
+          "That mutt is very friendly.",
+          "He jokingly called himself a mutt."
+        ]
+      },
+      {
+        "number": 170,
+        "word": "Pebble.",
+        "meaning": "A small stone.",
+        "examples": [
+          "I threw a pebble into the lake.",
+          "My shoe had a small pebble in it."
+        ]
+      },
+      {
+        "number": 171,
+        "word": "Get off.",
+        "meaning": "Leave or step away from something.",
+        "examples": [
+          "Please get off the bus at the next stop.",
+          "Get off the grass."
+        ]
+      },
+      {
+        "number": 172,
+        "word": "In the spirit of.",
+        "meaning": "Done with the intention of a certain feeling or purpose.",
+        "examples": [
+          "In the spirit of teamwork, let’s help each other.",
+          "In the spirit of learning, mistakes are okay."
+        ]
+      },
+      {
+        "number": 173,
+        "word": "Absolute reverence.",
+        "meaning": "Deep respect and admiration.",
+        "examples": [
+          "People speak about the leader with absolute reverence.",
+          "The temple is treated with absolute reverence."
+        ]
+      },
+      {
+        "number": 174,
+        "word": "Phenomenal.",
+        "meaning": "Extremely good or impressive.",
+        "examples": [
+          "The performance was phenomenal.",
+          "She achieved phenomenal success in business."
+        ]
+      },
+      {
+        "number": 175,
+        "word": "Perceive.",
+        "meaning": "To notice or understand something.",
+        "examples": [
+          "People perceive situations differently.",
+          "I perceive this problem in another way."
+        ]
+      },
+      {
+        "number": 176,
+        "word": "Utterly.",
+        "meaning": "Completely; totally.",
+        "examples": [
+          "I was utterly shocked by the news.",
+          "The idea is utterly unrealistic."
+        ]
+      },
+      {
+        "number": 177,
+        "word": "Relieved.",
+        "meaning": "Feeling relaxed after worry or stress.",
+        "examples": [
+          "I felt relieved after finishing the exam.",
+          "She looked relieved when the problem was solved."
+        ]
+      },
+      {
+        "number": 178,
+        "word": "Tremendous.",
+        "meaning": "Very great or impressive.",
+        "examples": [
+          "He made tremendous progress this year.",
+          "The team showed tremendous effort."
+        ]
+      },
+      {
+        "number": 179,
+        "word": "Lien.",
+        "meaning": "Legal right to keep someone’s property until a debt is paid.",
+        "examples": [
+          "The bank placed a lien on the property.",
+          "The contractor filed a lien for unpaid work."
+        ]
+      },
+      {
+        "number": 180,
+        "word": "Overwhelmed.",
+        "meaning": "Feeling too much pressure or emotion.",
+        "examples": [
+          "I felt overwhelmed with all the work.",
+          "She was overwhelmed by the support she received."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 10,
+    "title": "Day 10",
+    "file": "Lesson_10_Words_181-200.txt",
+    "audio": "Lesson_10_Words_181-200.mp3",
+    "words": [
+      {
+        "number": 181,
+        "word": "Kicked in.",
+        "meaning": "Started to take effect.",
+        "examples": [
+          "The medicine kicked in after an hour.",
+          "His survival instinct kicked in during the crisis."
+        ]
+      },
+      {
+        "number": 182,
+        "word": "Moved away.",
+        "meaning": "Went to live somewhere else.",
+        "examples": [
+          "My friend moved away to another city.",
+          "Many families moved away for better jobs."
+        ]
+      },
+      {
+        "number": 183,
+        "word": "It’s high time.",
+        "meaning": "Something should have happened already.",
+        "examples": [
+          "It’s high time we fixed this problem.",
+          "It’s high time you started taking your goals seriously."
+        ]
+      },
+      {
+        "number": 184,
+        "word": "Up till now.",
+        "meaning": "Until this moment.",
+        "examples": [
+          "Up till now, everything has been smooth.",
+          "Up till now, I haven't faced any issues."
+        ]
+      },
+      {
+        "number": 185,
+        "word": "Retrospect (correct spelling).",
+        "meaning": "Thinking back about the past.",
+        "examples": [
+          "In retrospect, I should have made a better decision.",
+          "In retrospect, the mistake taught me a lot."
+        ]
+      },
+      {
+        "number": 186,
+        "word": "In order to.",
+        "meaning": "For the purpose of.",
+        "examples": [
+          "I study daily in order to improve my skills.",
+          "We need discipline in order to succeed."
+        ]
+      },
+      {
+        "number": 187,
+        "word": "Complete garbage.",
+        "meaning": "Something totally useless or bad.",
+        "examples": [
+          "That explanation is complete garbage.",
+          "The rumor turned out to be complete garbage."
+        ]
+      },
+      {
+        "number": 188,
+        "word": "Get an edge.",
+        "meaning": "Gain an advantage.",
+        "examples": [
+          "Learning new skills helps you get an edge in business.",
+          "Practice helps athletes get an edge over competitors."
+        ]
+      },
+      {
+        "number": 189,
+        "word": "Forte.",
+        "meaning": "Something you are very good at.",
+        "examples": [
+          "Communication is his forte.",
+          "Marketing strategy is her forte."
+        ]
+      },
+      {
+        "number": 190,
+        "word": "As of now.",
+        "meaning": "At the present time.",
+        "examples": [
+          "As of now, I don’t have any updates.",
+          "As of now, the plan is still the same."
+        ]
+      },
+      {
+        "number": 191,
+        "word": "Eternity.",
+        "meaning": "Forever; endless time.",
+        "examples": [
+          "The meeting felt like an eternity.",
+          "Waiting for the results felt like eternity."
+        ]
+      },
+      {
+        "number": 192,
+        "word": "Irony.",
+        "meaning": "A situation opposite to what you expect.",
+        "examples": [
+          "It’s ironic that the fire station caught fire.",
+          "The irony is he teaches discipline but is always late."
+        ]
+      },
+      {
+        "number": 193,
+        "word": "Devastating.",
+        "meaning": "Extremely damaging or shocking.",
+        "examples": [
+          "The news was devastating for the whole family.",
+          "Losing the match like that was devastating."
+        ]
+      },
+      {
+        "number": 194,
+        "word": "Stirring.",
+        "meaning": "Causing strong emotions or excitement.",
+        "examples": [
+          "The speech was very stirring.",
+          "It was a stirring story about courage."
+        ]
+      },
+      {
+        "number": 195,
+        "word": "Flabbergasted.",
+        "meaning": "Extremely surprised or shocked.",
+        "examples": [
+          "I was flabbergasted when I heard the price.",
+          "She was flabbergasted by his sudden decision."
+        ]
+      },
+      {
+        "number": 196,
+        "word": "Pulled out.",
+        "meaning": "To withdraw or leave something.",
+        "examples": [
+          "The company pulled out of the deal.",
+          "He pulled out of the competition due to injury."
+        ]
+      },
+      {
+        "number": 197,
+        "word": "Meddling.",
+        "meaning": "Interfering in someone else's matters.",
+        "examples": [
+          "Stop meddling in my personal life.",
+          "I don’t like people meddling in my decisions."
+        ]
+      },
+      {
+        "number": 198,
+        "word": "Backlash.",
+        "meaning": "Strong negative reaction from people.",
+        "examples": [
+          "The decision caused a huge backlash online.",
+          "The company faced backlash from customers."
+        ]
+      },
+      {
+        "number": 199,
+        "word": "Relinquish.",
+        "meaning": "To give up control or possession.",
+        "examples": [
+          "He refused to relinquish his position.",
+          "She finally relinquished control of the project."
+        ]
+      },
+      {
+        "number": 200,
+        "word": "Harboring.",
+        "meaning": "Keeping a feeling or secret inside.",
+        "examples": [
+          "He is harboring anger towards his boss.",
+          "She has been harboring doubts about the plan."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 11,
+    "title": "Day 11",
+    "file": "Lesson_11_Words_201-220.txt",
+    "audio": "Lesson_11_Words_201-220.mp3",
+    "words": [
+      {
+        "number": 201,
+        "word": "Any lesser.",
+        "meaning": "Anything less than that.",
+        "examples": [
+          "I won’t accept any lesser than full payment.",
+          "He deserves success, nothing lesser."
+        ]
+      },
+      {
+        "number": 202,
+        "word": "Smirk.",
+        "meaning": "A small, smug smile.",
+        "examples": [
+          "He gave a smirk after winning the argument.",
+          "She smirked as if she already knew the answer."
+        ]
+      },
+      {
+        "number": 203,
+        "word": "Cunning.",
+        "meaning": "Clever in a tricky or sneaky way.",
+        "examples": [
+          "He is a cunning businessman.",
+          "The fox is known for being cunning."
+        ]
+      },
+      {
+        "number": 204,
+        "word": "Hypothesis.",
+        "meaning": "A possible explanation that needs proof.",
+        "examples": [
+          "Scientists tested their hypothesis in the lab.",
+          "My hypothesis is that the market will grow next year."
+        ]
+      },
+      {
+        "number": 205,
+        "word": "Envision.",
+        "meaning": "To imagine something in the future.",
+        "examples": [
+          "I envision this project becoming very successful.",
+          "She envisions a better future for her company."
+        ]
+      },
+      {
+        "number": 206,
+        "word": "Take place (correct form).",
+        "meaning": "To happen or occur.",
+        "examples": [
+          "The meeting will take place tomorrow.",
+          "The event took place in Mumbai."
+        ]
+      },
+      {
+        "number": 207,
+        "word": "Gain a better understanding.",
+        "meaning": "To understand something more clearly.",
+        "examples": [
+          "Reading helped me gain a better understanding of the topic.",
+          "Talking to experts helped us gain a better understanding."
+        ]
+      },
+      {
+        "number": 208,
+        "word": "I suppose.",
+        "meaning": "I think / I guess.",
+        "examples": [
+          "I suppose he will arrive soon.",
+          "I suppose this is the best option."
+        ]
+      },
+      {
+        "number": 209,
+        "word": "Affinity.",
+        "meaning": "Natural liking or connection.",
+        "examples": [
+          "She has an affinity for music.",
+          "I feel a strong affinity towards nature."
+        ]
+      },
+      {
+        "number": 210,
+        "word": "Abduct.",
+        "meaning": "To take someone away by force.",
+        "examples": [
+          "The criminal tried to abduct the child.",
+          "The movie is about aliens who abduct humans."
+        ]
+      },
+      {
+        "number": 211,
+        "word": "Nuisance.",
+        "meaning": "Something or someone annoying.",
+        "examples": [
+          "The constant noise is a nuisance.",
+          "Mosquitoes are a big nuisance in summer."
+        ]
+      },
+      {
+        "number": 212,
+        "word": "Seek friendship.",
+        "meaning": "To try to become friends with someone.",
+        "examples": [
+          "He moved to a new city and tried to seek friendship.",
+          "She joined clubs to seek friendship with new people."
+        ]
+      },
+      {
+        "number": 213,
+        "word": "Much more.",
+        "meaning": "A lot more than something mentioned.",
+        "examples": [
+          "This job requires patience and much more.",
+          "The phone offers good performance and much more."
+        ]
+      },
+      {
+        "number": 214,
+        "word": "Pose as human.",
+        "meaning": "Pretend to be a human.",
+        "examples": [
+          "In the movie, aliens pose as humans.",
+          "The robot could pose as a human in the story."
+        ]
+      },
+      {
+        "number": 215,
+        "word": "Gasping.",
+        "meaning": "Breathing quickly because of shock or lack of air.",
+        "examples": [
+          "He was gasping after running fast.",
+          "She was gasping in surprise when she heard the news."
+        ]
+      },
+      {
+        "number": 216,
+        "word": "Unless.",
+        "meaning": "Except if something happens.",
+        "examples": [
+          "I won’t go unless you come with me.",
+          "You won’t succeed unless you work hard."
+        ]
+      },
+      {
+        "number": 217,
+        "word": "Generally speaking.",
+        "meaning": "In most cases / usually.",
+        "examples": [
+          "Generally speaking, people prefer simple solutions.",
+          "Generally speaking, exercise improves health."
+        ]
+      },
+      {
+        "number": 218,
+        "word": "Kinda wanna.",
+        "meaning": "Informal way of saying “kind of want to”.",
+        "examples": [
+          "I kinda wanna try that new restaurant.",
+          "I kinda wanna take a short break."
+        ]
+      },
+      {
+        "number": 219,
+        "word": "Coulda woulda (shoulda).",
+        "meaning": "Talking about regrets about the past.",
+        "examples": [
+          "It’s all coulda woulda now; the chance is gone.",
+          "We coulda woulda won if we practiced more."
+        ]
+      },
+      {
+        "number": 220,
+        "word": "Let me ask you this.",
+        "meaning": "Phrase used before asking an important question.",
+        "examples": [
+          "Let me ask you this, do you really enjoy your job?",
+          "Let me ask you this, what would you do in my place?"
+        ]
+      }
+    ]
+  },
+  {
+    "day": 12,
+    "title": "Day 12",
+    "file": "Lesson_12_Words_221-240.txt",
+    "audio": "Lesson_12_Words_221-240.mp3",
+    "words": [
+      {
+        "number": 221,
+        "word": "I’m down for it.",
+        "meaning": "I’m interested / I agree to do it.",
+        "examples": [
+          "If you want to watch a movie, I’m down for it.",
+          "They’re planning a trip and I’m down for it."
+        ]
+      },
+      {
+        "number": 222,
+        "word": "Remarkable.",
+        "meaning": "Very impressive or unusual.",
+        "examples": [
+          "She did a remarkable job on the project.",
+          "His recovery was remarkable."
+        ]
+      },
+      {
+        "number": 223,
+        "word": "Getting ahead of myself.",
+        "meaning": "Talking or thinking too far in advance.",
+        "examples": [
+          "I might be getting ahead of myself, but this idea could work.",
+          "Let’s not get ahead of ourselves before the results."
+        ]
+      },
+      {
+        "number": 224,
+        "word": "1 minute or so.",
+        "meaning": "About one minute.",
+        "examples": [
+          "Give me a minute or so, I’ll finish this.",
+          "Wait here for a minute or so."
+        ]
+      },
+      {
+        "number": 225,
+        "word": "That sucks.",
+        "meaning": "Informal way to say something is bad or disappointing.",
+        "examples": [
+          "You lost your phone? That sucks.",
+          "The trip got cancelled? That really sucks."
+        ]
+      },
+      {
+        "number": 226,
+        "word": "Delivered keynotes.",
+        "meaning": "Gave an important speech at an event.",
+        "examples": [
+          "She delivered a keynote at the conference.",
+          "The CEO delivered the keynote speech yesterday."
+        ]
+      },
+      {
+        "number": 227,
+        "word": "Things go south.",
+        "meaning": "When a situation becomes bad.",
+        "examples": [
+          "Everything was fine until things went south.",
+          "The deal went south after the disagreement."
+        ]
+      },
+      {
+        "number": 228,
+        "word": "Nuance.",
+        "meaning": "A small but important difference in meaning.",
+        "examples": [
+          "Language has many nuances.",
+          "Good leaders understand the nuance of situations."
+        ]
+      },
+      {
+        "number": 229,
+        "word": "Start to lose it.",
+        "meaning": "Begin to lose control emotionally or mentally.",
+        "examples": [
+          "He started to lose it under pressure.",
+          "I almost started to lose it during the stressful meeting."
+        ]
+      },
+      {
+        "number": 230,
+        "word": "Soaked.",
+        "meaning": "Completely wet.",
+        "examples": [
+          "I got soaked in the rain.",
+          "My clothes were soaked after the storm."
+        ]
+      },
+      {
+        "number": 231,
+        "word": "Sledgehammer.",
+        "meaning": "A very heavy hammer used to break things.",
+        "examples": [
+          "They used a sledgehammer to break the wall.",
+          "The workers smashed the concrete with a sledgehammer."
+        ]
+      },
+      {
+        "number": 232,
+        "word": "Start to.",
+        "meaning": "Begin doing something.",
+        "examples": [
+          "I start to understand the concept now.",
+          "It started to rain suddenly."
+        ]
+      },
+      {
+        "number": 233,
+        "word": "Fidgeting.",
+        "meaning": "Making small nervous movements.",
+        "examples": [
+          "He kept fidgeting during the interview.",
+          "She was fidgeting with her pen while thinking."
+        ]
+      },
+      {
+        "number": 234,
+        "word": "Piss you off.",
+        "meaning": "(Informal) To make someone very angry.",
+        "examples": [
+          "It really pisses me off when people lie.",
+          "His rude behavior pissed everyone off."
+        ]
+      },
+      {
+        "number": 235,
+        "word": "Take a dump.",
+        "meaning": "(Informal) To go to the toilet to pass stool.",
+        "examples": [
+          "I’ll be back in a minute, I need to take a dump.",
+          "The dog went outside to take a dump."
+        ]
+      },
+      {
+        "number": 236,
+        "word": "Chronic stress.",
+        "meaning": "Long-term continuous stress.",
+        "examples": [
+          "Chronic stress can affect your health.",
+          "Many professionals suffer from chronic stress."
+        ]
+      },
+      {
+        "number": 237,
+        "word": "Narcissist.",
+        "meaning": "A person who is overly self-centered and loves admiration.",
+        "examples": [
+          "He behaves like a narcissist who only cares about himself.",
+          "Narcissists rarely accept criticism."
+        ]
+      },
+      {
+        "number": 238,
+        "word": "Hardwired.",
+        "meaning": "Something natural or built into us.",
+        "examples": [
+          "Humans are hardwired to seek social connection.",
+          "Fear of danger is hardwired in our brains."
+        ]
+      },
+      {
+        "number": 239,
+        "word": "Proximity.",
+        "meaning": "Nearness or closeness.",
+        "examples": [
+          "The restaurant’s proximity to the office is convenient.",
+          "Living in close proximity helps neighbors bond."
+        ]
+      },
+      {
+        "number": 240,
+        "word": "Dorm (Dormitory).",
+        "meaning": "A building where students live.",
+        "examples": [
+          "He lives in the college dorm.",
+          "We had many late-night talks in the dorm."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 13,
+    "title": "Day 13",
+    "file": "Lesson_13_Words_241-260.txt",
+    "audio": "Lesson_13_Words_241-260.mp3",
+    "words": [
+      {
+        "number": 241,
+        "word": "Expecting them.",
+        "meaning": "Waiting for someone to arrive.",
+        "examples": [
+          "I’m expecting them around 7 pm.",
+          "We were expecting them earlier today."
+        ]
+      },
+      {
+        "number": 242,
+        "word": "Sentiment analysis.",
+        "meaning": "Analyzing opinions or emotions in text using AI.",
+        "examples": [
+          "Companies use sentiment analysis to understand customer feedback.",
+          "The tool performs sentiment analysis on social media posts."
+        ]
+      },
+      {
+        "number": 243,
+        "word": "Distillation.",
+        "meaning": "Extracting the most important parts from something.",
+        "examples": [
+          "The report is a distillation of months of research.",
+          "This summary is a distillation of the main ideas."
+        ]
+      },
+      {
+        "number": 244,
+        "word": "Reciprocate.",
+        "meaning": "To return a feeling or action.",
+        "examples": [
+          "She helped me, so I wanted to reciprocate.",
+          "If someone respects you, you should reciprocate."
+        ]
+      },
+      {
+        "number": 245,
+        "word": "Empowered.",
+        "meaning": "Feeling confident and in control.",
+        "examples": [
+          "Education makes people feel empowered.",
+          "She felt empowered after learning new skills."
+        ]
+      },
+      {
+        "number": 246,
+        "word": "Extraordinary.",
+        "meaning": "Very unusual or impressive.",
+        "examples": [
+          "She did an extraordinary job on the project.",
+          "The athlete showed extraordinary strength."
+        ]
+      },
+      {
+        "number": 247,
+        "word": "Upstairs.",
+        "meaning": "On a higher floor of a building.",
+        "examples": [
+          "My room is upstairs.",
+          "They went upstairs to talk privately."
+        ]
+      },
+      {
+        "number": 248,
+        "word": "Downstairs.",
+        "meaning": "On a lower floor of a building.",
+        "examples": [
+          "I left my phone downstairs.",
+          "Let’s go downstairs and have tea."
+        ]
+      },
+      {
+        "number": 249,
+        "word": "Worked through.",
+        "meaning": "Managed to deal with or solve something.",
+        "examples": [
+          "We worked through the problem together.",
+          "She worked through many challenges in her career."
+        ]
+      },
+      {
+        "number": 250,
+        "word": "All day long.",
+        "meaning": "For the entire day.",
+        "examples": [
+          "I was busy all day long.",
+          "It rained all day long yesterday."
+        ]
+      },
+      {
+        "number": 251,
+        "word": "Create space.",
+        "meaning": "Make room or give time for something.",
+        "examples": [
+          "I need to create space in my schedule.",
+          "Good leaders create space for new ideas."
+        ]
+      },
+      {
+        "number": 252,
+        "word": "In the trenches.",
+        "meaning": "Doing the hard practical work.",
+        "examples": [
+          "Entrepreneurs often work in the trenches early on.",
+          "The team in the trenches solved the issue quickly."
+        ]
+      },
+      {
+        "number": 253,
+        "word": "Grew up in.",
+        "meaning": "Spent childhood in a place.",
+        "examples": [
+          "I grew up in a small town.",
+          "She grew up in a business family."
+        ]
+      },
+      {
+        "number": 254,
+        "word": "Shovel off.",
+        "meaning": "To remove something using a shovel.",
+        "examples": [
+          "They shoveled off the snow from the road.",
+          "He had to shovel off the dirt from the path."
+        ]
+      },
+      {
+        "number": 255,
+        "word": "Shoveling.",
+        "meaning": "Moving something like snow or dirt with a shovel.",
+        "examples": [
+          "He spent hours shoveling snow.",
+          "They were shoveling sand into the truck."
+        ]
+      },
+      {
+        "number": 256,
+        "word": "Trudge down.",
+        "meaning": "Walk slowly with difficulty or tiredness.",
+        "examples": [
+          "I trudged down the street after a long day.",
+          "The workers trudged down the hill carrying tools."
+        ]
+      },
+      {
+        "number": 257,
+        "word": "Hideous.",
+        "meaning": "Extremely ugly or unpleasant.",
+        "examples": [
+          "The building looked hideous after the damage.",
+          "That color combination is hideous."
+        ]
+      },
+      {
+        "number": 258,
+        "word": "Feathered hair.",
+        "meaning": "A hairstyle where hair is layered and brushed back like feathers.",
+        "examples": [
+          "In the 80s many actors had feathered hair.",
+          "She styled her hair in a feathered look."
+        ]
+      },
+      {
+        "number": 259,
+        "word": "Look like a troll.",
+        "meaning": "Look very messy or ugly (informal).",
+        "examples": [
+          "I just woke up and look like a troll.",
+          "After the rain, I looked like a troll."
+        ]
+      },
+      {
+        "number": 260,
+        "word": "Wrap it up.",
+        "meaning": "Finish something quickly.",
+        "examples": [
+          "Let’s wrap it up; the meeting is over.",
+          "I need to wrap up this work before leaving."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 14,
+    "title": "Day 14",
+    "file": "Lesson_14_Words_261-280.txt",
+    "audio": "Lesson_14_Words_261-280.mp3",
+    "words": [
+      {
+        "number": 261,
+        "word": "Devoted life.",
+        "meaning": "Dedicated life to something.",
+        "examples": [
+          "He devoted his life to science.",
+          "She devoted her life to helping others."
+        ]
+      },
+      {
+        "number": 262,
+        "word": "Hyperactive.",
+        "meaning": "Extremely energetic and restless.",
+        "examples": [
+          "The kids were hyperactive after eating sugar.",
+          "He was a hyperactive child."
+        ]
+      },
+      {
+        "number": 263,
+        "word": "Pursuit.",
+        "meaning": "The act of trying to achieve something.",
+        "examples": [
+          "Happiness is a common pursuit in life.",
+          "Education is a noble pursuit."
+        ]
+      },
+      {
+        "number": 264,
+        "word": "Intellectual pursuit.",
+        "meaning": "Activities that involve thinking and learning.",
+        "examples": [
+          "Reading philosophy is an intellectual pursuit.",
+          "Research is an intellectual pursuit."
+        ]
+      },
+      {
+        "number": 265,
+        "word": "Rich ideas.",
+        "meaning": "Creative and valuable ideas.",
+        "examples": [
+          "The discussion produced many rich ideas.",
+          "Entrepreneurs often share rich ideas during brainstorming."
+        ]
+      },
+      {
+        "number": 266,
+        "word": "Complicate things.",
+        "meaning": "Make something more difficult or confusing.",
+        "examples": [
+          "Don’t complicate things; keep it simple.",
+          "Adding too many steps will complicate things."
+        ]
+      },
+      {
+        "number": 267,
+        "word": "Boil it down.",
+        "meaning": "Explain something in a very simple way.",
+        "examples": [
+          "Let me boil it down for you.",
+          "If you boil it down, the problem is about money."
+        ]
+      },
+      {
+        "number": 268,
+        "word": "Boils down.",
+        "meaning": "The main reason or essence of something.",
+        "examples": [
+          "It all boils down to discipline.",
+          "Success boils down to consistency."
+        ]
+      },
+      {
+        "number": 269,
+        "word": "Anthropology.",
+        "meaning": "Study of humans, cultures, and societies.",
+        "examples": [
+          "She studied anthropology in college.",
+          "Anthropology helps us understand human history."
+        ]
+      },
+      {
+        "number": 270,
+        "word": "Thanks for having me.",
+        "meaning": "Polite way to thank someone for inviting you.",
+        "examples": [
+          "Thanks for having me on your podcast.",
+          "Thanks for having me over for dinner."
+        ]
+      },
+      {
+        "number": 271,
+        "word": "Playful grin.",
+        "meaning": "A fun, teasing smile.",
+        "examples": [
+          "He gave a playful grin before joking.",
+          "She had a playful grin on her face."
+        ]
+      },
+      {
+        "number": 272,
+        "word": "Cherish.",
+        "meaning": "To value something deeply.",
+        "examples": [
+          "I cherish the time spent with family.",
+          "She cherishes old memories."
+        ]
+      },
+      {
+        "number": 273,
+        "word": "Lighthearted moment.",
+        "meaning": "A fun, relaxed, and cheerful moment.",
+        "examples": [
+          "The joke created a lighthearted moment.",
+          "We shared a lighthearted moment during lunch."
+        ]
+      },
+      {
+        "number": 274,
+        "word": "Mug up.",
+        "meaning": "Memorize something quickly without deep understanding.",
+        "examples": [
+          "I had to mug up formulas before the exam.",
+          "Students sometimes mug up answers."
+        ]
+      },
+      {
+        "number": 275,
+        "word": "Epitome.",
+        "meaning": "Perfect example of something.",
+        "examples": [
+          "She is the epitome of kindness.",
+          "That car is the epitome of luxury."
+        ]
+      },
+      {
+        "number": 276,
+        "word": "Exert.",
+        "meaning": "Use effort or influence.",
+        "examples": [
+          "You must exert effort to succeed.",
+          "He exerted pressure to finish the work."
+        ]
+      },
+      {
+        "number": 277,
+        "word": "Swamp.",
+        "meaning": "Wet land or to overwhelm with too much.",
+        "examples": [
+          "The area is surrounded by swamps.",
+          "I was swamped with work yesterday."
+        ]
+      },
+      {
+        "number": 278,
+        "word": "Scarcity.",
+        "meaning": "Shortage of something.",
+        "examples": [
+          "Water scarcity is a big issue.",
+          "Scarcity increases the value of resources."
+        ]
+      },
+      {
+        "number": 279,
+        "word": "Transport.",
+        "meaning": "Move people or goods from one place to another.",
+        "examples": [
+          "Trucks transport goods across cities.",
+          "Public transport helps reduce traffic."
+        ]
+      },
+      {
+        "number": 280,
+        "word": "Dreadful.",
+        "meaning": "Very bad or unpleasant.",
+        "examples": [
+          "The weather was dreadful today.",
+          "He had a dreadful headache."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 15,
+    "title": "Day 15",
+    "file": "Lesson_15_Words_281-300.txt",
+    "audio": "Lesson_15_Words_281-300.mp3",
+    "words": [
+      {
+        "number": 281,
+        "word": "Dumpster.",
+        "meaning": "Large container for garbage.",
+        "examples": [
+          "They threw the waste in the dumpster.",
+          "The alley had a big dumpster."
+        ]
+      },
+      {
+        "number": 282,
+        "word": "Battered.",
+        "meaning": "Damaged by repeated hits.",
+        "examples": [
+          "The old car looked battered.",
+          "The boat was battered by the storm."
+        ]
+      },
+      {
+        "number": 283,
+        "word": "Prune.",
+        "meaning": "Cut parts of a plant to help it grow better.",
+        "examples": [
+          "Farmers prune trees regularly.",
+          "You should prune plants in winter."
+        ]
+      },
+      {
+        "number": 284,
+        "word": "Rigged.",
+        "meaning": "Manipulated unfairly.",
+        "examples": [
+          "Some people think the game was rigged.",
+          "The system seemed rigged against small players."
+        ]
+      },
+      {
+        "number": 285,
+        "word": "Reactive.",
+        "meaning": "Responding to events after they happen.",
+        "examples": [
+          "He tends to be reactive instead of proactive.",
+          "Reactive decisions often cause problems."
+        ]
+      },
+      {
+        "number": 286,
+        "word": "Proactive.",
+        "meaning": "Taking action in advance instead of reacting later.",
+        "examples": [
+          "Good leaders are proactive and solve problems early.",
+          "Try to be proactive about your health."
+        ]
+      },
+      {
+        "number": 287,
+        "word": "Vicious circle.",
+        "meaning": "A problem where one bad thing leads to another and keeps repeating.",
+        "examples": [
+          "Debt and stress can create a vicious circle.",
+          "Lack of sleep and stress often become a vicious circle."
+        ]
+      },
+      {
+        "number": 288,
+        "word": "Spent last decade.",
+        "meaning": "Used the past ten years doing something.",
+        "examples": [
+          "I spent the last decade building my business.",
+          "She spent the last decade studying climate change."
+        ]
+      },
+      {
+        "number": 289,
+        "word": "Right there and then.",
+        "meaning": "Immediately at that moment.",
+        "examples": [
+          "I decided right there and then to quit my job.",
+          "He apologized right there and then."
+        ]
+      },
+      {
+        "number": 290,
+        "word": "You name it, I’ve done it.",
+        "meaning": "I have done many different things.",
+        "examples": [
+          "I’ve tried many jobs—sales, marketing, design—you name it, I’ve done it.",
+          "In business, you name it, I’ve done it."
+        ]
+      },
+      {
+        "number": 291,
+        "word": "Cut him loose.",
+        "meaning": "Let someone go / stop supporting them.",
+        "examples": [
+          "The company cut him loose after repeated mistakes.",
+          "If he keeps breaking rules, they may cut him loose."
+        ]
+      },
+      {
+        "number": 292,
+        "word": "Far out.",
+        "meaning": "(Informal) Very surprising, amazing, or unbelievable.",
+        "examples": [
+          "That idea is far out but interesting.",
+          "His story sounded far out to me."
+        ]
+      },
+      {
+        "number": 293,
+        "word": "Anticipation.",
+        "meaning": "A feeling of excitement about something that will happen.",
+        "examples": [
+          "I’m waiting in anticipation for the results.",
+          "There was a lot of anticipation before the event started."
+        ]
+      },
+      {
+        "number": 294,
+        "word": "Distinctly changed.",
+        "meaning": "Clearly or noticeably different.",
+        "examples": [
+          "His behavior has distinctly changed after the promotion.",
+          "The market trend has distinctly changed this year."
+        ]
+      },
+      {
+        "number": 295,
+        "word": "Stop whining.",
+        "meaning": "Stop complaining in an annoying way.",
+        "examples": [
+          "Stop whining and focus on solving the problem.",
+          "He told his friend to stop whining about small issues."
+        ]
+      },
+      {
+        "number": 296,
+        "word": "Step forward.",
+        "meaning": "To take initiative or move ahead.",
+        "examples": [
+          "She decided to step forward and lead the team.",
+          "Someone needs to step forward in this situation."
+        ]
+      },
+      {
+        "number": 297,
+        "word": "Stranded.",
+        "meaning": "Left without help in a difficult place.",
+        "examples": [
+          "We were stranded on the highway due to a breakdown.",
+          "The travelers were stranded because of bad weather."
+        ]
+      },
+      {
+        "number": 298,
+        "word": "Pertains.",
+        "meaning": "Relates to or is about something.",
+        "examples": [
+          "This rule pertains to all employees.",
+          "The discussion pertains to business growth."
+        ]
+      },
+      {
+        "number": 299,
+        "word": "Snob.",
+        "meaning": "A person who thinks they are superior to others.",
+        "examples": [
+          "Don’t act like a snob in front of others.",
+          "He is a snob when it comes to branded clothes."
+        ]
+      },
+      {
+        "number": 300,
+        "word": "Condescending.",
+        "meaning": "Talking in a way that shows you think you are better than others.",
+        "examples": [
+          "His condescending tone annoyed everyone.",
+          "Don’t be condescending while giving advice."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 16,
+    "title": "Day 16",
+    "file": "Lesson_16_Words_301-320.txt",
+    "audio": "Lesson_16_Words_301-320.mp3",
+    "words": [
+      {
+        "number": 301,
+        "word": "Back to square one.",
+        "meaning": "Starting again from the beginning.",
+        "examples": [
+          "The plan failed, so we are back to square one.",
+          "After losing data, we were back to square one."
+        ]
+      },
+      {
+        "number": 302,
+        "word": "In return.",
+        "meaning": "As a response or exchange.",
+        "examples": [
+          "I helped him, and he supported me in return.",
+          "She gave me a gift, so I invited her in return."
+        ]
+      },
+      {
+        "number": 303,
+        "word": "Lucrative.",
+        "meaning": "Producing a lot of profit.",
+        "examples": [
+          "E-commerce can be a lucrative business.",
+          "He found a lucrative job opportunity abroad."
+        ]
+      },
+      {
+        "number": 304,
+        "word": "Obscure.",
+        "meaning": "Not well known or unclear.",
+        "examples": [
+          "He prefers obscure music bands.",
+          "The meaning of the sentence was obscure."
+        ]
+      },
+      {
+        "number": 305,
+        "word": "Connoisseur.",
+        "meaning": "An expert who appreciates fine things.",
+        "examples": [
+          "He is a connoisseur of fine art.",
+          "She is a connoisseur of good food."
+        ]
+      },
+      {
+        "number": 306,
+        "word": "Leisurely.",
+        "meaning": "Done in a relaxed and unhurried way.",
+        "examples": [
+          "We took a leisurely walk in the evening.",
+          "He enjoys a leisurely breakfast on Sundays."
+        ]
+      },
+      {
+        "number": 307,
+        "word": "Negligence.",
+        "meaning": "Lack of proper care or attention.",
+        "examples": [
+          "The accident happened due to negligence.",
+          "Negligence in work can cause serious problems."
+        ]
+      },
+      {
+        "number": 308,
+        "word": "Perched.",
+        "meaning": "Sitting or resting on something (usually at a height).",
+        "examples": [
+          "The bird was perched on the tree branch.",
+          "He was perched on the edge of the chair."
+        ]
+      },
+      {
+        "number": 309,
+        "word": "Cheeky maina.",
+        "meaning": "A playful or slightly naughty bird (used informally for someone mischievous).",
+        "examples": [
+          "That cheeky maina keeps stealing food from the balcony.",
+          "He behaves like a cheeky maina, always teasing others."
+        ]
+      },
+      {
+        "number": 310,
+        "word": "Window sill (correct spelling).",
+        "meaning": "The flat ledge at the bottom of a window.",
+        "examples": [
+          "She kept a flower pot on the window sill.",
+          "The cat was sitting on the window sill."
+        ]
+      },
+      {
+        "number": 311,
+        "word": "Snap out of it.",
+        "meaning": "To quickly stop feeling sad, upset, or distracted.",
+        "examples": [
+          "You need to snap out of it and focus on work.",
+          "He told himself to snap out of it after the failure."
+        ]
+      },
+      {
+        "number": 312,
+        "word": "Go barracks (likely meant “go to barracks”).",
+        "meaning": "To go back to living quarters (used in military context).",
+        "examples": [
+          "The soldiers were ordered to go to barracks.",
+          "After training, they returned to the barracks."
+        ]
+      },
+      {
+        "number": 313,
+        "word": "Whatsoever.",
+        "meaning": "At all (used for emphasis in negative sentences).",
+        "examples": [
+          "I have no interest whatsoever in that topic.",
+          "There was no help whatsoever from anyone."
+        ]
+      },
+      {
+        "number": 314,
+        "word": "Lethargic.",
+        "meaning": "Feeling tired, slow, and lacking energy.",
+        "examples": [
+          "I feel lethargic after eating too much.",
+          "He was lethargic due to lack of sleep."
+        ]
+      },
+      {
+        "number": 315,
+        "word": "Self-esteem.",
+        "meaning": "Confidence in one’s own worth or abilities.",
+        "examples": [
+          "Good achievements boost self-esteem.",
+          "Failure should not affect your self-esteem."
+        ]
+      },
+      {
+        "number": 316,
+        "word": "Stimulate.",
+        "meaning": "To encourage or increase activity or interest.",
+        "examples": [
+          "This book will stimulate your thinking.",
+          "Exercise helps stimulate blood flow."
+        ]
+      },
+      {
+        "number": 317,
+        "word": "Confiscated.",
+        "meaning": "Taken away officially (often by authority).",
+        "examples": [
+          "The teacher confiscated his phone in class.",
+          "Illegal goods were confiscated by the police."
+        ]
+      },
+      {
+        "number": 318,
+        "word": "Slack off.",
+        "meaning": "To avoid work or do something lazily.",
+        "examples": [
+          "Don’t slack off during important tasks.",
+          "He started to slack off after getting comfortable in his job."
+        ]
+      },
+      {
+        "number": 319,
+        "word": "Perseverance.",
+        "meaning": "Continued effort despite difficulties.",
+        "examples": [
+          "Success comes with perseverance.",
+          "Her perseverance helped her achieve her goals."
+        ]
+      },
+      {
+        "number": 320,
+        "word": "Ever since.",
+        "meaning": "From a past time until now.",
+        "examples": [
+          "I’ve been busy ever since I started this job.",
+          "He has been happy ever since he moved here."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 17,
+    "title": "Day 17",
+    "file": "Lesson_17_Words_321-340.txt",
+    "audio": "Lesson_17_Words_321-340.mp3",
+    "words": [
+      {
+        "number": 321,
+        "word": "Cultivate.",
+        "meaning": "To develop or improve a skill or quality.",
+        "examples": [
+          "You should cultivate good habits.",
+          "Reading helps cultivate knowledge."
+        ]
+      },
+      {
+        "number": 322,
+        "word": "Heralded.",
+        "meaning": "Announced or seen as a sign of something important.",
+        "examples": [
+          "This project was heralded as a big success.",
+          "The invention was heralded as a breakthrough."
+        ]
+      },
+      {
+        "number": 323,
+        "word": "Merely.",
+        "meaning": "Just or only.",
+        "examples": [
+          "It was merely a misunderstanding.",
+          "He is not merely a worker; he is a leader."
+        ]
+      },
+      {
+        "number": 324,
+        "word": "Vouch for.",
+        "meaning": "To confirm or support someone’s credibility.",
+        "examples": [
+          "I can vouch for his honesty.",
+          "She vouched for her friend during the interview."
+        ]
+      },
+      {
+        "number": 325,
+        "word": "Too good to be true.",
+        "meaning": "So good that it seems unrealistic.",
+        "examples": [
+          "The offer sounded too good to be true.",
+          "His success story feels too good to be true."
+        ]
+      },
+      {
+        "number": 326,
+        "word": "Point blank.",
+        "meaning": "Very directly and bluntly.",
+        "examples": [
+          "She refused the offer point blank.",
+          "He asked me point blank about my plans."
+        ]
+      },
+      {
+        "number": 327,
+        "word": "Long-term association.",
+        "meaning": "A relationship lasting for a long time.",
+        "examples": [
+          "We are looking for a long-term association with clients.",
+          "Trust is important for a long-term association."
+        ]
+      },
+      {
+        "number": 328,
+        "word": "Stammer.",
+        "meaning": "To speak with pauses or repeat sounds due to nervousness.",
+        "examples": [
+          "I started to stammer during the interview.",
+          "He tends to stammer when he is stressed."
+        ]
+      },
+      {
+        "number": 329,
+        "word": "Squeaked.",
+        "meaning": "Made a short, high-pitched sound.",
+        "examples": [
+          "The door squeaked when I opened it.",
+          "She squeaked with excitement."
+        ]
+      },
+      {
+        "number": 330,
+        "word": "Explicitly.",
+        "meaning": "Clearly and directly, without confusion.",
+        "examples": [
+          "The manager explicitly told us to be on time.",
+          "Please explain the rules explicitly."
+        ]
+      },
+      {
+        "number": 331,
+        "word": "Releasing tension.",
+        "meaning": "Letting go of stress or pressure.",
+        "examples": [
+          "Exercise helps in releasing tension.",
+          "Talking to a friend is good for releasing tension."
+        ]
+      },
+      {
+        "number": 332,
+        "word": "Capitulated.",
+        "meaning": "Gave up or surrendered after resistance.",
+        "examples": [
+          "He finally capitulated and agreed to the plan.",
+          "The company capitulated after customer complaints."
+        ]
+      },
+      {
+        "number": 333,
+        "word": "Show up.",
+        "meaning": "To arrive or appear.",
+        "examples": [
+          "Make sure you show up on time.",
+          "He didn’t show up for the meeting."
+        ]
+      },
+      {
+        "number": 334,
+        "word": "Blah blah blah.",
+        "meaning": "Used to describe boring or unimportant talk.",
+        "examples": [
+          "He kept talking blah blah blah about politics.",
+          "I skipped the speech because it was just blah blah blah."
+        ]
+      },
+      {
+        "number": 335,
+        "word": "Scrutinized.",
+        "meaning": "Examined very carefully.",
+        "examples": [
+          "The teacher scrutinized my homework.",
+          "The police scrutinized the evidence."
+        ]
+      },
+      {
+        "number": 336,
+        "word": "Hand knuckles.",
+        "meaning": "The joints of fingers.",
+        "examples": [
+          "His hand knuckles turned white from gripping tightly.",
+          "I hurt my knuckles while lifting boxes."
+        ]
+      },
+      {
+        "number": 337,
+        "word": "Agree to disagree.",
+        "meaning": "Accept that people have different opinions.",
+        "examples": [
+          "We decided to agree to disagree.",
+          "Sometimes it’s better to agree to disagree and move on."
+        ]
+      },
+      {
+        "number": 338,
+        "word": "Elitist.",
+        "meaning": "Someone who believes they are superior to others.",
+        "examples": [
+          "Some people think private schools are elitist.",
+          "He sounded elitist in his speech."
+        ]
+      },
+      {
+        "number": 339,
+        "word": "Ever since.",
+        "meaning": "From a specific time in the past until now.",
+        "examples": [
+          "I have been busy ever since morning.",
+          "She has lived here ever since 2020."
+        ]
+      },
+      {
+        "number": 340,
+        "word": "Were to.",
+        "meaning": "Used to talk about a possible situation.",
+        "examples": [
+          "If I were to start a business, I would sell online.",
+          "If he were to call, tell him I’m busy."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 18,
+    "title": "Day 18",
+    "file": "Lesson_18_Words_341-360.txt",
+    "audio": "Lesson_18_Words_341-360.mp3",
+    "words": [
+      {
+        "number": 341,
+        "word": "I’m certain.",
+        "meaning": "I am sure or confident.",
+        "examples": [
+          "I’m certain we will succeed.",
+          "I’m certain she told the truth."
+        ]
+      },
+      {
+        "number": 342,
+        "word": "Perseverance.",
+        "meaning": "Continued effort despite difficulties.",
+        "examples": [
+          "Success requires perseverance.",
+          "Her perseverance helped her achieve her goals."
+        ]
+      },
+      {
+        "number": 343,
+        "word": "Don’t buy it.",
+        "meaning": "Don’t believe something.",
+        "examples": [
+          "He said he was sick, but I don’t buy it.",
+          "That excuse sounds fake — I don’t buy it."
+        ]
+      },
+      {
+        "number": 344,
+        "word": "Calm and poised.",
+        "meaning": "Relaxed, confident, and in control.",
+        "examples": [
+          "She remained calm and poised during the crisis.",
+          "A leader should stay calm and poised."
+        ]
+      },
+      {
+        "number": 345,
+        "word": "Benevolent.",
+        "meaning": "Kind and willing to help others.",
+        "examples": [
+          "The benevolent donor helped many families.",
+          "He is known as a benevolent leader."
+        ]
+      },
+      {
+        "number": 346,
+        "word": "Behold.",
+        "meaning": "Look at something carefully (formal/dramatic).",
+        "examples": [
+          "Behold the beauty of nature.",
+          "Behold the new product launch."
+        ]
+      },
+      {
+        "number": 347,
+        "word": "Spectacles.",
+        "meaning": "Glasses worn to improve vision.",
+        "examples": [
+          "My grandfather wears spectacles.",
+          "I can’t read without my spectacles."
+        ]
+      },
+      {
+        "number": 348,
+        "word": "Surpass.",
+        "meaning": "To go beyond or do better than.",
+        "examples": [
+          "Our sales this year surpassed last year's numbers.",
+          "She worked hard to surpass her goals."
+        ]
+      },
+      {
+        "number": 349,
+        "word": "Nuked.",
+        "meaning": "Destroyed completely, especially with bombs or force.",
+        "examples": [
+          "The city was almost nuked during the war.",
+          "He joked that his phone battery got nuked after heavy use."
+        ]
+      },
+      {
+        "number": 350,
+        "word": "By far.",
+        "meaning": "Much more than others; clearly the most.",
+        "examples": [
+          "This is by far the best restaurant in town.",
+          "She is by far the most experienced employee."
+        ]
+      },
+      {
+        "number": 351,
+        "word": "Devastating.",
+        "meaning": "Extremely harmful or shocking.",
+        "examples": [
+          "The flood had a devastating impact on farmers.",
+          "Losing the match was devastating for the team."
+        ]
+      },
+      {
+        "number": 352,
+        "word": "Sovereignty.",
+        "meaning": "The power of a country to govern itself.",
+        "examples": [
+          "Every nation protects its sovereignty.",
+          "The government emphasized national sovereignty."
+        ]
+      },
+      {
+        "number": 353,
+        "word": "Integrity.",
+        "meaning": "Honesty and strong moral principles.",
+        "examples": [
+          "A leader must have integrity.",
+          "She is respected for her integrity."
+        ]
+      },
+      {
+        "number": 354,
+        "word": "Plunges.",
+        "meaning": "Falls or drops suddenly.",
+        "examples": [
+          "The temperature plunges at night.",
+          "The stock price plunged after the news."
+        ]
+      },
+      {
+        "number": 355,
+        "word": "Nearly.",
+        "meaning": "Almost, but not completely.",
+        "examples": [
+          "I nearly missed the bus.",
+          "The project is nearly finished."
+        ]
+      },
+      {
+        "number": 356,
+        "word": "Catastrophic.",
+        "meaning": "Causing great damage or disaster.",
+        "examples": [
+          "The earthquake caused catastrophic damage.",
+          "A major system failure could be catastrophic."
+        ]
+      },
+      {
+        "number": 357,
+        "word": "Revolted.",
+        "meaning": "Felt strong disgust or protested against something.",
+        "examples": [
+          "Citizens revolted against the unfair law.",
+          "I was revolted by his rude behavior."
+        ]
+      },
+      {
+        "number": 358,
+        "word": "Severe.",
+        "meaning": "Very serious or intense.",
+        "examples": [
+          "He suffered severe injuries.",
+          "The weather conditions are severe today."
+        ]
+      },
+      {
+        "number": 359,
+        "word": "Impunity.",
+        "meaning": "Freedom from punishment for wrongdoing.",
+        "examples": [
+          "Criminals should not act with impunity.",
+          "Corruption grows when people escape with impunity."
+        ]
+      },
+      {
+        "number": 360,
+        "word": "Staggering.",
+        "meaning": "Very surprising or shocking in size or amount.",
+        "examples": [
+          "The company reported staggering profits.",
+          "The cost of the project was staggering."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 19,
+    "title": "Day 19",
+    "file": "Lesson_19_Words_361-380.txt",
+    "audio": "Lesson_19_Words_361-380.mp3",
+    "words": [
+      {
+        "number": 361,
+        "word": "Convicted.",
+        "meaning": "Found guilty of a crime by a court.",
+        "examples": [
+          "The thief was convicted last year.",
+          "He was convicted for fraud."
+        ]
+      },
+      {
+        "number": 362,
+        "word": "Morality.",
+        "meaning": "Principles about right and wrong behavior.",
+        "examples": [
+          "Parents teach children morality.",
+          "Business decisions should consider morality."
+        ]
+      },
+      {
+        "number": 363,
+        "word": "Retarded (correct spelling).",
+        "meaning": "Delayed or slowed development (medical/technical term; can be offensive in casual use).",
+        "examples": [
+          "The project progress was retarded due to lack of funds.",
+          "Growth was retarded by poor planning."
+        ]
+      },
+      {
+        "number": 364,
+        "word": "Condemn.",
+        "meaning": "To strongly criticize or express disapproval.",
+        "examples": [
+          "Leaders condemned the violent attack.",
+          "We should condemn corruption."
+        ]
+      },
+      {
+        "number": 365,
+        "word": "Dignity.",
+        "meaning": "A sense of self-respect and honor.",
+        "examples": [
+          "Everyone deserves to live with dignity.",
+          "She handled the situation with dignity."
+        ]
+      },
+      {
+        "number": 366,
+        "word": "Fascist (correct spelling).",
+        "meaning": "Someone who supports strict authoritarian control.",
+        "examples": [
+          "The group was accused of having fascist ideas.",
+          "People protested against fascist policies."
+        ]
+      },
+      {
+        "number": 367,
+        "word": "Testify.",
+        "meaning": "To give evidence or speak formally about something.",
+        "examples": [
+          "He will testify in court tomorrow.",
+          "The witness testified about the incident."
+        ]
+      },
+      {
+        "number": 368,
+        "word": "Regime change.",
+        "meaning": "Replacing one government or leadership with another.",
+        "examples": [
+          "The country experienced regime change after the election.",
+          "Some groups demanded regime change."
+        ]
+      },
+      {
+        "number": 369,
+        "word": "An act of.",
+        "meaning": "Something done that shows a particular quality.",
+        "examples": [
+          "Helping the poor is an act of kindness.",
+          "Donating blood is an act of courage."
+        ]
+      },
+      {
+        "number": 370,
+        "word": "For God's sake.",
+        "meaning": "Expression of frustration or urgency.",
+        "examples": [
+          "For God's sake, hurry up!",
+          "For God's sake, listen carefully."
+        ]
+      },
+      {
+        "number": 371,
+        "word": "Despise.",
+        "meaning": "To strongly dislike or hate.",
+        "examples": [
+          "I despise dishonesty.",
+          "She despises rude behavior."
+        ]
+      },
+      {
+        "number": 372,
+        "word": "Bunch of.",
+        "meaning": "A group of people or things.",
+        "examples": [
+          "A bunch of students entered the room.",
+          "I bought a bunch of bananas."
+        ]
+      },
+      {
+        "number": 373,
+        "word": "Radical.",
+        "meaning": "Very extreme or favoring big changes.",
+        "examples": [
+          "He proposed radical changes in the company.",
+          "Some ideas sound too radical."
+        ]
+      },
+      {
+        "number": 374,
+        "word": "That's absurd.",
+        "meaning": "That is completely unreasonable or ridiculous.",
+        "examples": [
+          "Charging that much money is absurd.",
+          "That's absurd — it makes no sense."
+        ]
+      },
+      {
+        "number": 375,
+        "word": "Consecutive.",
+        "meaning": "Following one after another without a break.",
+        "examples": [
+          "He worked for five consecutive days.",
+          "The team won three consecutive matches."
+        ]
+      },
+      {
+        "number": 376,
+        "word": "Prejudice.",
+        "meaning": "Unfair opinion about someone without facts.",
+        "examples": [
+          "We should avoid prejudice.",
+          "The decision was based on prejudice."
+        ]
+      },
+      {
+        "number": 377,
+        "word": "Frightened.",
+        "meaning": "Feeling scared.",
+        "examples": [
+          "The child was frightened by the noise.",
+          "I felt frightened during the storm."
+        ]
+      },
+      {
+        "number": 378,
+        "word": "Not following you.",
+        "meaning": "Not understanding what someone is saying.",
+        "examples": [
+          "Sorry, I'm not following you.",
+          "Can you explain again? I'm not following you."
+        ]
+      },
+      {
+        "number": 379,
+        "word": "Won't budge.",
+        "meaning": "Refuses to change opinion or move.",
+        "examples": [
+          "He won't budge from his decision.",
+          "The manager won't budge on the price."
+        ]
+      },
+      {
+        "number": 380,
+        "word": "Decisive.",
+        "meaning": "Able to make decisions quickly and confidently.",
+        "examples": [
+          "A leader must be decisive.",
+          "Her decisive action solved the problem."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 20,
+    "title": "Day 20",
+    "file": "Lesson_20_Words_381-400.txt",
+    "audio": "Lesson_20_Words_381-400.mp3",
+    "words": [
+      {
+        "number": 381,
+        "word": "Whatsoever.",
+        "meaning": "At all; in any way.",
+        "examples": [
+          "I have no doubt whatsoever.",
+          "There was no problem whatsoever."
+        ]
+      },
+      {
+        "number": 382,
+        "word": "Yapping.",
+        "meaning": "Talking a lot in an annoying way.",
+        "examples": [
+          "He kept yapping during the meeting.",
+          "Stop yapping and focus on work."
+        ]
+      },
+      {
+        "number": 383,
+        "word": "Yet again.",
+        "meaning": "Once more; another time.",
+        "examples": [
+          "He made the same mistake yet again.",
+          "The system failed yet again."
+        ]
+      },
+      {
+        "number": 384,
+        "word": "Abruptly.",
+        "meaning": "Suddenly and unexpectedly.",
+        "examples": [
+          "The meeting ended abruptly.",
+          "He left the room abruptly."
+        ]
+      },
+      {
+        "number": 385,
+        "word": "Weaselly (likely intended; meaning tricky or dishonest).",
+        "meaning": "Acting in a sneaky or dishonest way.",
+        "examples": [
+          "He gave a weaselly excuse.",
+          "That was a weaselly move."
+        ]
+      },
+      {
+        "number": 386,
+        "word": "Indisputable.",
+        "meaning": "Impossible to deny or question.",
+        "examples": [
+          "The evidence is indisputable.",
+          "Her success is indisputable."
+        ]
+      },
+      {
+        "number": 387,
+        "word": "Down the road.",
+        "meaning": "In the future; later on.",
+        "examples": [
+          "We may expand the business down the road.",
+          "This decision will help us down the road."
+        ]
+      },
+      {
+        "number": 388,
+        "word": "Analogy.",
+        "meaning": "A comparison used to explain something.",
+        "examples": [
+          "The teacher used an analogy to explain the concept.",
+          "He gave an analogy between business and sports."
+        ]
+      },
+      {
+        "number": 389,
+        "word": "Hypothetical.",
+        "meaning": "Based on imagination or assumption, not real.",
+        "examples": [
+          "Let's discuss a hypothetical situation.",
+          "That was just a hypothetical question."
+        ]
+      },
+      {
+        "number": 390,
+        "word": "Relentless.",
+        "meaning": "Continuing without stopping or giving up.",
+        "examples": [
+          "She made relentless efforts to grow her business.",
+          "The rain was relentless all night."
+        ]
+      },
+      {
+        "number": 391,
+        "word": "Perpetrators.",
+        "meaning": "People who commit a crime or wrongdoing.",
+        "examples": [
+          "The police arrested the perpetrators.",
+          "The perpetrators will face punishment."
+        ]
+      },
+      {
+        "number": 392,
+        "word": "Firmly denied.",
+        "meaning": "Strongly said something is not true.",
+        "examples": [
+          "He firmly denied the allegations.",
+          "The company firmly denied any wrongdoing."
+        ]
+      },
+      {
+        "number": 393,
+        "word": "Reluctant.",
+        "meaning": "Not willing or hesitant to do something.",
+        "examples": [
+          "I was reluctant to change my job.",
+          "She felt reluctant to speak in public."
+        ]
+      },
+      {
+        "number": 394,
+        "word": "Puny.",
+        "meaning": "Very small or weak; insignificant.",
+        "examples": [
+          "The puppy looked puny and weak.",
+          "That amount of money is puny compared to the cost."
+        ]
+      },
+      {
+        "number": 395,
+        "word": "struck me as.",
+        "meaning": "Gave me an impression of something.",
+        "examples": [
+          "He struck me as a very friendly person.",
+          "The proposal struck me as a good business opportunity.",
+          "Something about that place struck me as unusual."
+        ]
+      },
+      {
+        "number": 396,
+        "word": "menacing.",
+        "meaning": "Threatening, frightening or dangerous.",
+        "examples": [
+          "That dog looks menacing.",
+          "His aggressive tone was quite menacing.",
+          "Dark clouds were gathering in a menacing way."
+        ]
+      },
+      {
+        "number": 397,
+        "word": "turmoil.",
+        "meaning": "A state of confusion, trouble or disturbance.",
+        "examples": [
+          "My mind is in turmoil right now.",
+          "The company is going through financial turmoil.",
+          "The country experienced political turmoil."
+        ]
+      },
+      {
+        "number": 398,
+        "word": "tend to be.",
+        "meaning": "Usually behave or happen in a particular way.",
+        "examples": [
+          "I tend to be quiet around strangers.",
+          "Clients tend to be more interested in affordable solutions.",
+          "People tend to forget small things over time."
+        ]
+      },
+      {
+        "number": 399,
+        "word": "bit of scoop.",
+        "meaning": "A little inside information or secret news.",
+        "examples": [
+          "I've got a bit of scoop for you.",
+          "Do you have a bit of scoop about the new project?",
+          "Let me give you a bit of scoop about what happened yesterday."
+        ]
+      },
+      {
+        "number": 400,
+        "word": "amid.",
+        "meaning": "In the middle of something; surrounded by.",
+        "examples": [
+          "Amid all the noise, I couldn't hear you.",
+          "We launched the project amid several challenges.",
+          "Amid the chaos, he remained calm."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 21,
+    "title": "Day 21",
+    "file": "Lesson_21_Words_401-420.txt",
+    "audio": "Lesson_21_Words_401-420.mp3",
+    "words": [
+      {
+        "number": 401,
+        "word": "captive.",
+        "meaning": "Someone held prisoner or unable to escape.",
+        "examples": [
+          "The soldiers kept him captive.",
+          "The audience was captive to his presentation.",
+          "The animals were held captive for years."
+        ]
+      },
+      {
+        "number": 402,
+        "word": "stigma.",
+        "meaning": "A negative social judgment or label.",
+        "examples": [
+          "There's still a stigma around failure.",
+          "We should remove the stigma associated with mental health.",
+          "Losing a job shouldn't carry a social stigma."
+        ]
+      },
+      {
+        "number": 403,
+        "word": "decimated.",
+        "meaning": "Destroyed or severely reduced.",
+        "examples": [
+          "The storm decimated the village.",
+          "Poor management decimated the company's profits.",
+          "The disease decimated the population."
+        ]
+      },
+      {
+        "number": 404,
+        "word": "tattered.",
+        "meaning": "Old, torn or damaged.",
+        "examples": [
+          "He's wearing a tattered shirt.",
+          "The company's reputation was left tattered after the incident.",
+          "An old man was carrying a tattered bag."
+        ]
+      },
+      {
+        "number": 405,
+        "word": "intercept.",
+        "meaning": "To stop or catch something before it reaches its destination.",
+        "examples": [
+          "The police intercepted the vehicle.",
+          "We intercepted the issue before it affected the project.",
+          "The goalkeeper intercepted the ball."
+        ]
+      },
+      {
+        "number": 406,
+        "word": "dellict.",
+        "meaning": "Abandoned, neglected or in very poor condition.",
+        "examples": [
+          "There's a derelict building near my house.",
+          "The company purchased a derelict property.",
+          "We walked past a derelict factory."
+        ]
+      },
+      {
+        "number": 407,
+        "word": "endeavors.",
+        "meaning": "Efforts, attempts or activities.",
+        "examples": [
+          "I wish you success in your future endeavors.",
+          "We appreciate your efforts and professional endeavors.",
+          "Despite several failures, he continued his endeavors."
+        ]
+      },
+      {
+        "number": 408,
+        "word": "bear minimum.",
+        "meaning": "The least amount required.",
+        "examples": [
+          "I'm just doing the bare minimum today.",
+          "He only completed the bare minimum of his responsibilities.",
+          "Don't settle for the bare minimum in life."
+        ]
+      },
+      {
+        "number": 409,
+        "word": "bear with me.",
+        "meaning": "Be patient with me.",
+        "examples": [
+          "Bear with me for a minute.",
+          "Please bear with me while I check the details.",
+          "Bear with me; I'll explain everything shortly."
+        ]
+      },
+      {
+        "number": 410,
+        "word": "rip off.",
+        "meaning": "Cheat someone by charging too much or selling something unfairly.",
+        "examples": [
+          "This shop completely ripped me off.",
+          "The agency charged us too much. It was a rip-off.",
+          "I paid ₹2,000 for this? What a rip-off!"
+        ]
+      },
+      {
+        "number": 411,
+        "word": "yet again.",
+        "meaning": "Once more; again.",
+        "examples": [
+          "You're late yet again!",
+          "The client has requested changes yet again.",
+          "Yet again, things didn't go as planned."
+        ]
+      },
+      {
+        "number": 412,
+        "word": "obliterate.",
+        "meaning": "Completely destroy or wipe out.",
+        "examples": [
+          "The explosion obliterated the building.",
+          "A strong competitor could obliterate a weak business.",
+          "The flood obliterated everything in its path."
+        ]
+      },
+      {
+        "number": 413,
+        "word": "dime a dozen.",
+        "meaning": "Very common; not special or unique.",
+        "examples": [
+          "These kinds of excuses are a dime a dozen.",
+          "Basic websites are a dime a dozen nowadays.",
+          "Fake promises are a dime a dozen."
+        ]
+      },
+      {
+        "number": 414,
+        "word": "satire.",
+        "meaning": "Humour used to criticize society, people or politics.",
+        "examples": [
+          "I enjoy watching political satire.",
+          "The advertisement uses satire to highlight bad business practices.",
+          "The movie is a satire on modern society."
+        ]
+      },
+      {
+        "number": 415,
+        "word": "stash.",
+        "meaning": "To hide or store something for later.",
+        "examples": [
+          "I have a stash of chocolates in my room.",
+          "Keep a stash of backup files just in case.",
+          "He had stashed some money under his bed."
+        ]
+      },
+      {
+        "number": 416,
+        "word": "hold onto this.",
+        "meaning": "Keep this; don't let it go.",
+        "examples": [
+          "Hold onto this bag for a minute.",
+          "Hold onto this document until the project is finished.",
+          "You should hold onto your dreams."
+        ]
+      },
+      {
+        "number": 417,
+        "word": "infested.",
+        "meaning": "Filled with unwanted insects, animals or harmful things.",
+        "examples": [
+          "My kitchen is infested with ants.",
+          "The old office was infested with rats.",
+          "The area was infested with mosquitoes."
+        ]
+      },
+      {
+        "number": 418,
+        "word": "dress up.",
+        "meaning": "Wear special or formal clothes.",
+        "examples": [
+          "We should dress up for the party.",
+          "You don't need to dress up for this meeting.",
+          "She loves dressing up for special occasions."
+        ]
+      },
+      {
+        "number": 419,
+        "word": "tussle.",
+        "meaning": "A physical struggle or argument.",
+        "examples": [
+          "They got into a tussle over a parking space.",
+          "The two companies are in a tussle over the contract.",
+          "He had a little tussle with his brother."
+        ]
+      },
+      {
+        "number": 420,
+        "word": "get hang of it.",
+        "meaning": "Learn how to do something.",
+        "examples": [
+          "I'm slowly getting the hang of driving.",
+          "It took me a week to get the hang of this software.",
+          "Don't worry, you'll get the hang of it eventually."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 22,
+    "title": "Day 22",
+    "file": "Lesson_22_Words_421-440.txt",
+    "audio": "Lesson_22_Words_421-440.mp3",
+    "words": [
+      {
+        "number": 421,
+        "word": "to grasp it.",
+        "meaning": "Understand something.",
+        "examples": [
+          "I couldn't grasp what he was trying to say.",
+          "It took me some time to grasp the concept.",
+          "Once you grasp the basics, everything becomes easier."
+        ]
+      },
+      {
+        "number": 422,
+        "word": "run short.",
+        "meaning": "Have less of something than needed.",
+        "examples": [
+          "We're running short of milk.",
+          "We're running short of time to finish the project.",
+          "I ran short of money during my trip."
+        ]
+      },
+      {
+        "number": 423,
+        "word": "barge in.",
+        "meaning": "Enter or interrupt rudely without permission.",
+        "examples": [
+          "Don't barge into my room without knocking.",
+          "He barged into the meeting without permission.",
+          "Sorry to barge in, but I need to tell you something."
+        ]
+      },
+      {
+        "number": 424,
+        "word": "shape perception.",
+        "meaning": "Influence how someone sees or understands something.",
+        "examples": [
+          "Social media can shape our perception of beauty.",
+          "Branding helps shape customers' perception of a company.",
+          "Our childhood experiences shape our perception of the world."
+        ]
+      },
+      {
+        "number": 425,
+        "word": "perceive.",
+        "meaning": "Understand, interpret or see something in a particular way.",
+        "examples": [
+          "I perceive him as a trustworthy person.",
+          "Customers perceive this brand as premium.",
+          "People perceive failure differently."
+        ]
+      },
+      {
+        "number": 426,
+        "word": "early on.",
+        "meaning": "At an early stage or in the beginning.",
+        "examples": [
+          "I realized early on that something was wrong.",
+          "We identified the problem early on in the project.",
+          "You should develop good habits early on in life."
+        ]
+      },
+      {
+        "number": 427,
+        "word": "nerve of steel.",
+        "meaning": "Being extremely brave and calm under pressure.",
+        "examples": [
+          "You need nerves of steel to do that job.",
+          "She handled the client crisis with nerves of steel.",
+          "The firefighter showed nerves of steel during the rescue."
+        ]
+      },
+      {
+        "number": 428,
+        "word": "whole life flash just before my eyes.",
+        "meaning": "I felt extremely scared, as if I might die.",
+        "examples": [
+          "When the car almost hit me, my whole life flashed before my eyes.",
+          "When I accidentally deleted the project files, my whole life flashed before my eyes.",
+          "I slipped from the stairs, and my whole life flashed before my eyes."
+        ]
+      },
+      {
+        "number": 429,
+        "word": "not cutout to be.",
+        "meaning": "Not naturally suited for something.",
+        "examples": [
+          "I'm not cut out to be a doctor.",
+          "I don't think I'm cut out to be a salesperson.",
+          "Maybe I'm not cut out to live in a big city."
+        ]
+      },
+      {
+        "number": 430,
+        "word": "worn out.",
+        "meaning": "Extremely tired or damaged from use.",
+        "examples": [
+          "I'm completely worn out after work.",
+          "These laptops are worn out and need replacing.",
+          "My shoes are getting worn out."
+        ]
+      },
+      {
+        "number": 431,
+        "word": "buzzkill.",
+        "meaning": "Someone or something that ruins the fun.",
+        "examples": [
+          "Don't be such a buzzkill!",
+          "Cancelling the event at the last minute was a real buzzkill.",
+          "The rain was a total buzzkill for our picnic."
+        ]
+      },
+      {
+        "number": 432,
+        "word": "to get there.",
+        "meaning": "To reach a goal or desired result.",
+        "examples": [
+          "I'm not perfect at English, but I'll get there.",
+          "We're making progress; we'll get there eventually.",
+          "It takes time to build a successful business, but you'll get there."
+        ]
+      },
+      {
+        "number": 433,
+        "word": "pry about.",
+        "meaning": "Ask intrusive questions or interfere in someone's private matters.",
+        "examples": [
+          "Stop prying into my personal life.",
+          "We shouldn't pry into the client's private matters.",
+          "He's always prying into other people's business."
+        ]
+      },
+      {
+        "number": 434,
+        "word": "overkill.",
+        "meaning": "More than necessary; excessive.",
+        "examples": [
+          "Buying five phones is a bit of an overkill.",
+          "Spending ₹1 lakh on a simple website would be overkill.",
+          "Wearing a suit to a casual meeting is a bit of an overkill."
+        ]
+      },
+      {
+        "number": 435,
+        "word": "let me off the leash.",
+        "meaning": "Allow me more freedom to act.",
+        "examples": [
+          "Just let me off the leash and I'll show you what I can do.",
+          "Give me more responsibility and let me off the leash.",
+          "My parents finally let me off the leash when I turned 18."
+        ]
+      },
+      {
+        "number": 436,
+        "word": "arms are busted up.",
+        "meaning": "My arms are badly hurt or injured (informal).",
+        "examples": [
+          "My arms are busted up after that workout.",
+          "He couldn't work because his arms were busted up.",
+          "I fell off my bike, and both my arms were pretty busted up."
+        ]
+      },
+      {
+        "number": 437,
+        "word": "can pull this off.",
+        "meaning": "Can successfully do something difficult.",
+        "examples": [
+          "I think I can pull this off.",
+          "We have limited time, but I believe we can pull this project off.",
+          "Nobody thought he could win, but he pulled it off."
+        ]
+      },
+      {
+        "number": 438,
+        "word": "its turned out to be.",
+        "meaning": "Something has developed into an unexpected result.",
+        "examples": [
+          "It's turned out to be a great day.",
+          "The project has turned out to be more complicated than expected.",
+          "What started as a small idea has turned out to be a successful business."
+        ]
+      },
+      {
+        "number": 439,
+        "word": "beat to the pulp.",
+        "meaning": "Beat someone very badly.",
+        "examples": [
+          "He was beaten to a pulp in the fight.",
+          "The boxer was beaten to a pulp during the match.",
+          "The old punching bag was battered almost to a pulp."
+        ]
+      },
+      {
+        "number": 440,
+        "word": "fanatic.",
+        "meaning": "Someone extremely enthusiastic or obsessed about something.",
+        "examples": [
+          "He's a fitness fanatic.",
+          "She's a technology fanatic and loves trying new tools.",
+          "I'm a cricket fanatic."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 23,
+    "title": "Day 23",
+    "file": "Lesson_23_Words_441-460.txt",
+    "audio": "Lesson_23_Words_441-460.mp3",
+    "words": [
+      {
+        "number": 441,
+        "word": "couldn't have been a more of a disaster.",
+        "meaning": "Something was an absolute disaster.",
+        "examples": [
+          "My first driving lesson couldn't have been more of a disaster.",
+          "The product launch couldn't have been more of a disaster.",
+          "Our holiday couldn't have been more of a disaster."
+        ]
+      },
+      {
+        "number": 442,
+        "word": "looking forward to.",
+        "meaning": "Feeling excited about something in the future.",
+        "examples": [
+          "I'm looking forward to the weekend.",
+          "I'm looking forward to working with your team.",
+          "I'm really looking forward to meeting you."
+        ]
+      },
+      {
+        "number": 443,
+        "word": "clench your fist.",
+        "meaning": "Close your hand tightly.",
+        "examples": [
+          "He clenched his fist in anger.",
+          "Try not to clench your fists when you're nervous.",
+          "She clenched her fists and prepared for the fight."
+        ]
+      },
+      {
+        "number": 444,
+        "word": "lineage.",
+        "meaning": "Family history or ancestral background.",
+        "examples": [
+          "He comes from a royal lineage.",
+          "The company has a long lineage of experienced founders.",
+          "Scientists studied the lineage of the ancient species."
+        ]
+      },
+      {
+        "number": 445,
+        "word": "pull off.",
+        "meaning": "Successfully achieve something difficult.",
+        "examples": [
+          "I can't believe you pulled it off!",
+          "We managed to pull off the project before the deadline.",
+          "Nobody thought he could win, but he pulled it off."
+        ]
+      },
+      {
+        "number": 446,
+        "word": "got jumpy.",
+        "meaning": "Became nervous, anxious or easily startled.",
+        "examples": [
+          "I got jumpy when I heard that noise.",
+          "The client got jumpy when we missed the deadline.",
+          "He got jumpy after watching that horror movie."
+        ]
+      },
+      {
+        "number": 447,
+        "word": "stand down.",
+        "meaning": "Stop fighting, arguing or taking action.",
+        "examples": [
+          "Relax, you can stand down now.",
+          "The manager asked the team to stand down until further instructions.",
+          "The police told the officers to stand down."
+        ]
+      },
+      {
+        "number": 448,
+        "word": "bye all means.",
+        "meaning": "Certainly; go ahead; feel free.",
+        "examples": [
+          "By all means, take another piece of cake.",
+          "By all means, share your suggestions.",
+          "If you want to join us, by all means, come along."
+        ]
+      },
+      {
+        "number": 449,
+        "word": "now then.",
+        "meaning": "Used to get attention or introduce a new topic.",
+        "examples": [
+          "Now then, what should we do today?",
+          "Now then, let's discuss the next steps.",
+          "Now then, where were we?"
+        ]
+      },
+      {
+        "number": 450,
+        "word": "upper hand.",
+        "meaning": "An advantage or position of control.",
+        "examples": [
+          "He always wants to have the upper hand in an argument.",
+          "Our competitors currently have the upper hand.",
+          "She gained the upper hand during the negotiation."
+        ]
+      },
+      {
+        "number": 451,
+        "word": "stigma.",
+        "meaning": "A negative social label or judgment.",
+        "examples": [
+          "There's a stigma around failure.",
+          "We need to remove the stigma associated with mental health.",
+          "People shouldn't face stigma because of their background."
+        ]
+      },
+      {
+        "number": 452,
+        "word": "caveats.",
+        "meaning": "Warnings, conditions or limitations.",
+        "examples": [
+          "There is one caveat: you have to return it tomorrow.",
+          "The proposal looks good, but there are a few caveats.",
+          "The deal comes with several caveats."
+        ]
+      },
+      {
+        "number": 453,
+        "word": "go on.",
+        "meaning": "Continue; proceed; tell me more.",
+        "examples": [
+          "Go on, I'm listening.",
+          "Please go on with your presentation.",
+          "He went on talking for another hour."
+        ]
+      },
+      {
+        "number": 454,
+        "word": "ick.",
+        "meaning": "A feeling of disgust or sudden loss of attraction.",
+        "examples": [
+          "That smell gives me the ick.",
+          "Poor communication can give customers the ick.",
+          "I got the ick when he started behaving rudely."
+        ]
+      },
+      {
+        "number": 455,
+        "word": "ruthlessly.",
+        "meaning": "Without mercy or sympathy; very aggressively.",
+        "examples": [
+          "He ruthlessly criticized everyone.",
+          "The company ruthlessly cut unnecessary expenses.",
+          "The king ruled the kingdom ruthlessly."
+        ]
+      },
+      {
+        "number": 456,
+        "word": "let that sink in.",
+        "meaning": "Take time to understand how important something is.",
+        "examples": [
+          "He earns ₹1 lakh a day. Let that sink in.",
+          "We lost 30% of our customers. Let that sink in.",
+          "You only get one life. Let that sink in."
+        ]
+      },
+      {
+        "number": 457,
+        "word": "I have nothing against you.",
+        "meaning": "I don't dislike you or have a personal problem with you.",
+        "examples": [
+          "I have nothing against you; I just disagree with your decision.",
+          "I have nothing against you personally, but I don't support this idea.",
+          "Don't misunderstand me. I have nothing against you."
+        ]
+      },
+      {
+        "number": 458,
+        "word": "you really had me there.",
+        "meaning": "You fooled or surprised me; I believed you for a moment.",
+        "examples": [
+          "I thought you were serious! You really had me there.",
+          "When you said the project was cancelled, you really had me there.",
+          "I thought you had actually won the lottery. You really had me there!"
+        ]
+      },
+      {
+        "number": 459,
+        "word": "sudden turn of events.",
+        "meaning": "An unexpected change in a situation.",
+        "examples": [
+          "There was a sudden turn of events, and we had to cancel the trip.",
+          "A sudden turn of events changed the entire business strategy.",
+          "Everything was going well until a sudden turn of events changed our lives."
+        ]
+      },
+      {
+        "number": 460,
+        "word": "for that matter.",
+        "meaning": "Used to add another related point.",
+        "examples": [
+          "I don't even like tea. Coffee, for that matter, either.",
+          "We don't have enough time, or resources for that matter.",
+          "Nobody understood him, not even his closest friends, for that matter."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 24,
+    "title": "Day 24",
+    "file": "Lesson_24_Words_461-480.txt",
+    "audio": "Lesson_24_Words_461-480.mp3",
+    "words": [
+      {
+        "number": 461,
+        "word": "feeling sluggish.",
+        "meaning": "Feeling slow, tired or low on energy.",
+        "examples": [
+          "I'm feeling sluggish today.",
+          "I feel sluggish after sitting at my desk all day.",
+          "I usually feel sluggish after eating a heavy meal."
+        ]
+      },
+      {
+        "number": 462,
+        "word": "year of slog.",
+        "meaning": "A year of hard, tiring and continuous work.",
+        "examples": [
+          "It's been a year of slog, but I'm finally seeing results.",
+          "After a year of slog, we finally completed the project.",
+          "It took a whole year of slog to build the business."
+        ]
+      },
+      {
+        "number": 463,
+        "word": "thats not the case.",
+        "meaning": "That's not true; the situation is different.",
+        "examples": [
+          "You think I'm lazy, but that's not the case.",
+          "People think SEO is dead, but that's not the case.",
+          "It may look easy, but that's not the case."
+        ]
+      },
+      {
+        "number": 464,
+        "word": "pull these things off.",
+        "meaning": "Successfully accomplish these tasks.",
+        "examples": [
+          "I don't know how you pull these things off.",
+          "We need a skilled team to pull these things off.",
+          "If we work together, we can pull these things off."
+        ]
+      },
+      {
+        "number": 465,
+        "word": "cultivate.",
+        "meaning": "Develop or improve something gradually.",
+        "examples": [
+          "You should cultivate good habits.",
+          "We need to cultivate stronger relationships with clients.",
+          "Reading helps cultivate critical thinking."
+        ]
+      },
+      {
+        "number": 466,
+        "word": "inculcate.",
+        "meaning": "Instil an idea, value or habit through teaching.",
+        "examples": [
+          "Parents should inculcate good values in their children.",
+          "Companies should inculcate a culture of accountability.",
+          "Schools should inculcate discipline among students."
+        ]
+      },
+      {
+        "number": 467,
+        "word": "put in the spot.",
+        "meaning": "Make someone answer or act under pressure.",
+        "examples": [
+          "Don't put me on the spot like that!",
+          "The manager put me on the spot during the meeting.",
+          "He put her on the spot by asking a personal question."
+        ]
+      },
+      {
+        "number": 468,
+        "word": "resonate.",
+        "meaning": "Connect emotionally or feel meaningful.",
+        "examples": [
+          "That song really resonates with me.",
+          "Your business idea resonates with our target audience.",
+          "His story resonated with millions of people."
+        ]
+      },
+      {
+        "number": 469,
+        "word": "patronizing.",
+        "meaning": "Treating someone as if they are less intelligent or important.",
+        "examples": [
+          "Stop talking to me in that patronizing tone.",
+          "The manager's patronizing attitude upset the employees.",
+          "I don't like people who act patronizing towards others."
+        ]
+      },
+      {
+        "number": 470,
+        "word": "change things around.",
+        "meaning": "Make changes or rearrange things.",
+        "examples": [
+          "Let's change things around a little.",
+          "We need to change things around in our marketing strategy.",
+          "Moving to another city completely changed things around for me."
+        ]
+      },
+      {
+        "number": 471,
+        "word": "let alone.",
+        "meaning": "Used to emphasize that something is even less likely.",
+        "examples": [
+          "I can't afford a bike, let alone a car.",
+          "We can't finish one project, let alone five.",
+          "He can't manage his own expenses, let alone support a family."
+        ]
+      },
+      {
+        "number": 472,
+        "word": "speculation.",
+        "meaning": "Guessing without having confirmed information.",
+        "examples": [
+          "That's just speculation; we don't know what happened.",
+          "The market is full of speculation right now.",
+          "There was a lot of speculation about his resignation."
+        ]
+      },
+      {
+        "number": 473,
+        "word": "haul.",
+        "meaning": "A large amount of something collected, bought or carried.",
+        "examples": [
+          "Look at my shopping haul!",
+          "We received a huge haul of new products.",
+          "The police discovered a large haul of stolen goods."
+        ]
+      },
+      {
+        "number": 474,
+        "word": "pipe dream.",
+        "meaning": "An unrealistic dream or hope.",
+        "examples": [
+          "Becoming rich overnight is just a pipe dream.",
+          "Without proper funding, this business plan could remain a pipe dream.",
+          "He thought travelling the world was a pipe dream until he saved enough money."
+        ]
+      },
+      {
+        "number": 475,
+        "word": "despair.",
+        "meaning": "Complete loss of hope.",
+        "examples": [
+          "Don't lose hope and fall into despair.",
+          "The business owner was in despair after losing his biggest client.",
+          "He looked at the situation with complete despair."
+        ]
+      },
+      {
+        "number": 476,
+        "word": "immobilize.",
+        "meaning": "Make someone or something unable to move.",
+        "examples": [
+          "The injury immobilized my leg.",
+          "The technical issue immobilized our entire system.",
+          "The heavy snowfall immobilized traffic across the city."
+        ]
+      },
+      {
+        "number": 477,
+        "word": "parables.",
+        "meaning": "Short stories that teach moral or spiritual lessons.",
+        "examples": [
+          "My grandmother used to tell me interesting parables.",
+          "The speaker used parables to explain leadership lessons.",
+          "The book contains several parables about honesty and kindness."
+        ]
+      },
+      {
+        "number": 478,
+        "word": "spectrum.",
+        "meaning": "A wide range of things or opinions.",
+        "examples": [
+          "People have a whole spectrum of opinions.",
+          "We offer services across a wide spectrum of industries.",
+          "Emotions exist on a broad spectrum."
+        ]
+      },
+      {
+        "number": 479,
+        "word": "its relative.",
+        "meaning": "It depends on the situation or perspective.",
+        "examples": [
+          "Being rich is relative; it means different things to different people.",
+          "Success is relative to your business goals.",
+          "What's expensive to one person might be affordable to another."
+        ]
+      },
+      {
+        "number": 480,
+        "word": "mockery.",
+        "meaning": "Making fun of someone or something.",
+        "examples": [
+          "Don't make a mockery of someone's feelings.",
+          "The poor presentation made a mockery of our preparation.",
+          "His dream became a subject of mockery among his friends."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 25,
+    "title": "Day 25",
+    "file": "Lesson_25_Words_481-500.txt",
+    "audio": "Lesson_25_Words_481-500.mp3",
+    "words": [
+      {
+        "number": 481,
+        "word": "correlation and causation.",
+        "meaning": "Correlation means two things are related; causation means one causes the other.",
+        "examples": [
+          "Just because two things happen together doesn't mean one causes the other.",
+          "We found a correlation between website traffic and sales, but that doesn't prove causation.",
+          "There is a difference between correlation and causation."
+        ]
+      },
+      {
+        "number": 482,
+        "word": "walked up to me.",
+        "meaning": "Approached me by walking.",
+        "examples": [
+          "A stranger walked up to me and asked for directions.",
+          "A client walked up to me after the presentation.",
+          "He walked up to me and started asking questions."
+        ]
+      },
+      {
+        "number": 483,
+        "word": "by far.",
+        "meaning": "Used to emphasize that something is much more than others.",
+        "examples": [
+          "This is by far my favourite movie.",
+          "This is by far the best-performing campaign.",
+          "He is by far the most talented player on the team."
+        ]
+      },
+      {
+        "number": 484,
+        "word": "by all means.",
+        "meaning": "Certainly; go ahead.",
+        "examples": [
+          "By all means, take my seat.",
+          "By all means, share your feedback.",
+          "If you want to try it, by all means, go ahead."
+        ]
+      },
+      {
+        "number": 485,
+        "word": "marginal growth.",
+        "meaning": "Very small or slight growth.",
+        "examples": [
+          "My savings showed marginal growth this month.",
+          "The company experienced only marginal growth in revenue.",
+          "The business is growing, but the growth is marginal."
+        ]
+      },
+      {
+        "number": 486,
+        "word": "error of margin.",
+        "meaning": "The possible amount of error in a measurement or estimate.",
+        "examples": [
+          "There might be a small margin of error in this calculation.",
+          "The survey has a margin of error of 3%.",
+          "We should consider the margin of error before making a decision."
+        ]
+      },
+      {
+        "number": 487,
+        "word": "cadence.",
+        "meaning": "Rhythm, flow or regular pattern.",
+        "examples": [
+          "I like the cadence of the way he speaks.",
+          "We need a consistent content publishing cadence.",
+          "The speaker's cadence made the story interesting."
+        ]
+      },
+      {
+        "number": 488,
+        "word": "pre-empted.",
+        "meaning": "Took action before something happened to prevent or anticipate it.",
+        "examples": [
+          "He pre-empted my question by answering it first.",
+          "We pre-empted the client's concerns by preparing a detailed report.",
+          "The police pre-empted the attack before it happened."
+        ]
+      },
+      {
+        "number": 489,
+        "word": "ethos.",
+        "meaning": "The beliefs, values and principles of a person or organization.",
+        "examples": [
+          "Honesty is part of my personal ethos.",
+          "Customer satisfaction is central to our company's ethos.",
+          "The school's ethos encourages discipline and creativity."
+        ]
+      },
+      {
+        "number": 490,
+        "word": "subjective.",
+        "meaning": "Based on personal feelings or opinions.",
+        "examples": [
+          "Beauty is subjective.",
+          "Design preferences are subjective, so we should consider the target audience.",
+          "His opinion about the movie is completely subjective."
+        ]
+      },
+      {
+        "number": 491,
+        "word": "intricacies.",
+        "meaning": "Small details or complicated parts of something.",
+        "examples": [
+          "I don't understand all the intricacies of this game.",
+          "We need to understand the intricacies of SEO before building the strategy.",
+          "He explained the intricacies of the legal system."
+        ]
+      },
+      {
+        "number": 492,
+        "word": "roots for them.",
+        "meaning": "Supports or wants someone to succeed.",
+        "examples": [
+          "I always root for my favourite team.",
+          "Our entire team is rooting for you.",
+          "Even though they are competitors, I still root for them."
+        ]
+      },
+      {
+        "number": 493,
+        "word": "virtue signaling.",
+        "meaning": "Showing off moral values to gain public approval rather than genuinely acting on them.",
+        "examples": [
+          "Sometimes people post things online just for virtue signalling.",
+          "A company shouldn't rely on virtue signalling instead of taking real action.",
+          "He was accused of virtue signalling rather than genuinely helping people."
+        ]
+      },
+      {
+        "number": 494,
+        "word": "too clichéd.",
+        "meaning": "Too common, predictable or unoriginal.",
+        "examples": [
+          "That romantic dialogue is too clichéd.",
+          "This marketing campaign feels too clichéd.",
+          "The movie had a predictable and too-clichéd ending."
+        ]
+      },
+      {
+        "number": 495,
+        "word": "come up to me.",
+        "meaning": "Approach me; move towards me.",
+        "examples": [
+          "You can come up to me if you need help.",
+          "The client came up to me with a new idea.",
+          "A little boy came up to me and asked my name."
+        ]
+      },
+      {
+        "number": 496,
+        "word": "lucrative.",
+        "meaning": "Producing a lot of money; profitable.",
+        "examples": [
+          "Freelancing can be a lucrative career.",
+          "SEO services can become a lucrative business with the right clients.",
+          "He left his job for a more lucrative opportunity."
+        ]
+      },
+      {
+        "number": 497,
+        "word": "ignorant.",
+        "meaning": "Lacking knowledge or awareness.",
+        "examples": [
+          "I'm ignorant about this subject, so please explain it to me.",
+          "We shouldn't make decisions based on ignorant assumptions.",
+          "He remained ignorant of what was happening around him."
+        ]
+      },
+      {
+        "number": 498,
+        "word": "triage.",
+        "meaning": "Prioritize problems according to urgency and importance.",
+        "examples": [
+          "I need to triage my tasks before starting work.",
+          "The support team uses triage to handle urgent client issues first.",
+          "Doctors performed triage to treat the most critical patients first."
+        ]
+      },
+      {
+        "number": 499,
+        "word": "receded.",
+        "meaning": "Moved backwards, decreased or became less noticeable.",
+        "examples": [
+          "The water gradually receded after the flood.",
+          "Our website traffic receded after the campaign ended.",
+          "His hairline has receded over the years."
+        ]
+      },
+      {
+        "number": 500,
+        "word": "comprehend.",
+        "meaning": "To fully understand something.",
+        "examples": [
+          "I couldn't comprehend what he was saying.",
+          "It's important to comprehend the client's requirements before starting the project.",
+          "It took me years to comprehend the importance of time."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 26,
+    "title": "Day 26",
+    "file": "Lesson_26_Words_501-513.txt",
+    "audio": "Lesson_26_Words_501-513.mp3",
+    "words": [
+      {
+        "number": 501,
+        "word": "detriment.",
+        "meaning": "Harm or damage to something.",
+        "examples": [
+          "Don't work too hard to the detriment of your health.",
+          "Cutting costs shouldn't be done to the detriment of quality.",
+          "His bad habits were to the detriment of his future."
+        ]
+      },
+      {
+        "number": 502,
+        "word": "essentially.",
+        "meaning": "Basically; at the most important level.",
+        "examples": [
+          "Essentially, I'm trying to improve my English.",
+          "Essentially, our goal is to increase organic traffic.",
+          "Essentially, everyone wants to be happy."
+        ]
+      },
+      {
+        "number": 503,
+        "word": "adequacy.",
+        "meaning": "The quality of being sufficient or good enough.",
+        "examples": [
+          "I'm not sure about the adequacy of this solution.",
+          "We need to check the adequacy of our resources before starting.",
+          "The adequacy of the food and water was questioned."
+        ]
+      },
+      {
+        "number": 504,
+        "word": "peculiar.",
+        "meaning": "Strange, unusual or different.",
+        "examples": [
+          "There's something peculiar about him.",
+          "We noticed a peculiar pattern in the website traffic.",
+          "I heard a peculiar noise coming from the kitchen."
+        ]
+      },
+      {
+        "number": 505,
+        "word": "ambiguous.",
+        "meaning": "Unclear; having more than one possible meaning.",
+        "examples": [
+          "Your answer is a little ambiguous.",
+          "The client's instructions were ambiguous.",
+          "His message was ambiguous, so I didn't know what he meant."
+        ]
+      },
+      {
+        "number": 506,
+        "word": "pretentious.",
+        "meaning": "Trying to appear more important, intelligent or sophisticated than you really are.",
+        "examples": [
+          "Don't be so pretentious.",
+          "The website sounds too pretentious instead of being customer-friendly.",
+          "He uses complicated words just to sound intelligent. It's pretentious."
+        ]
+      },
+      {
+        "number": 507,
+        "word": "pose no threat.",
+        "meaning": "Not be dangerous or harmful.",
+        "examples": [
+          "Don't worry, that dog poses no threat.",
+          "This competitor poses no threat to our business right now.",
+          "The new technology poses no threat to traditional jobs in this situation."
+        ]
+      },
+      {
+        "number": 508,
+        "word": "cast vote.",
+        "meaning": "To officially vote for someone or something.",
+        "examples": [
+          "I went to cast my vote yesterday.",
+          "Every employee will get an opportunity to cast a vote.",
+          "Citizens gathered to cast their votes in the election."
+        ]
+      },
+      {
+        "number": 509,
+        "word": "off spring.",
+        "meaning": "Children or young ones of a person or animal.",
+        "examples": [
+          "They have three offspring.",
+          "The study examined the effects of pollution on animal offspring.",
+          "The bird was protecting its offspring."
+        ]
+      },
+      {
+        "number": 510,
+        "word": "mondane.",
+        "meaning": "Ordinary, boring or repetitive.",
+        "examples": [
+          "I'm tired of doing the same mundane tasks every day.",
+          "Automation can help us avoid mundane office work.",
+          "He wanted to escape his mundane routine."
+        ]
+      },
+      {
+        "number": 511,
+        "word": "binge watching.",
+        "meaning": "Watching many episodes of a show continuously.",
+        "examples": [
+          "I spent the whole weekend binge-watching a series.",
+          "Binge-watching can affect your productivity if you don't manage your time.",
+          "We started watching one episode and ended up binge-watching the entire season."
+        ]
+      },
+      {
+        "number": 512,
+        "word": "Subjective.",
+        "meaning": "Based on personal feelings or opinions.",
+        "examples": [
+          "Beauty is subjective.",
+          "Design preferences are subjective and vary from client to client.",
+          "His review of the movie was subjective."
+        ]
+      },
+      {
+        "number": 513,
+        "word": "Objective.",
+        "meaning": "Based on facts; also means a goal or target.",
+        "examples": [
+          "Let's look at the situation objectively.",
+          "Our main objective is to increase website conversions.",
+          "My objective is to become financially independent."
+        ]
+      }
+    ]
+  }
+]
