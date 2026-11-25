@@ -26,6 +26,7 @@ export default function FocusPage() {
   const endAt = useRef(0);
   const completionHandled = useRef(false);
   const handledFinish = useRef(0);
+  const audioContext = useRef<AudioContext | null>(null);
 
   useEffect(() => {
     const savedTheme = localStorage.getItem(THEME_KEY) === "dark" ? "dark" : "light";
@@ -33,11 +34,21 @@ export default function FocusPage() {
     document.documentElement.dataset.theme = savedTheme;
   }, []);
 
-  const playChime = useCallback(() => {
-    if (!sound || typeof window === "undefined") return;
+  const unlockAudio = useCallback(() => {
+    if (typeof window === "undefined") return null;
     const AudioContextClass = window.AudioContext || (window as Window & { webkitAudioContext?: typeof AudioContext }).webkitAudioContext;
-    if (!AudioContextClass) return;
-    const context = new AudioContextClass();
+    if (!AudioContextClass) return null;
+    const context = audioContext.current ?? new AudioContextClass();
+    audioContext.current = context;
+    void context.resume();
+    return context;
+  }, []);
+
+  const playChime = useCallback(async (force = false) => {
+    if ((!sound && !force) || typeof window === "undefined") return;
+    const context = audioContext.current ?? unlockAudio();
+    if (!context) return;
+    try { await context.resume(); } catch { return; }
     const now = context.currentTime;
     [659.25, 783.99, 987.77].forEach((frequency, index) => {
       const oscillator = context.createOscillator();
@@ -53,8 +64,7 @@ export default function FocusPage() {
       oscillator.start(start);
       oscillator.stop(start + 0.68);
     });
-    window.setTimeout(() => void context.close(), 1400);
-  }, [sound]);
+  }, [sound, unlockAudio]);
 
   useEffect(() => {
     if (!running) return;
@@ -101,6 +111,7 @@ export default function FocusPage() {
       setRunning(false);
       setMessage("Timer paused. Pick up when you’re ready.");
     } else {
+      if (sound) unlockAudio();
       if (remaining <= 0) setRemaining((mode === "focus" ? focusMinutes : DURATIONS[mode]) * 60);
       endAt.current = Date.now() + Math.max(1, remaining) * 1000;
       completionHandled.current = false;
@@ -194,7 +205,7 @@ export default function FocusPage() {
             <div className="focus-side-card focus-next-card"><span className="focus-card-kicker">YOUR RHYTHM</span><h2>A little structure goes a long way.</h2><p>Work in focused bursts, then take a real pause. After four sessions, earn a longer break.</p>
               <div className="focus-cycle" aria-label={`${sessions % 4} of 4 focus sessions in this cycle`}>{[0, 1, 2, 3].map((n) => <span key={n} className={n < sessions % 4 ? "cycle-dot complete" : "cycle-dot"} />)}<span className="cycle-label">{sessions % 4} of 4 sessions</span></div>
             </div>
-            <div className="focus-side-card focus-sound-card"><div className="sound-icon" aria-hidden="true">♫</div><div className="sound-copy"><h3>Gentle chime</h3><p>Plays when a session ends</p></div><button className={sound ? "sound-toggle on" : "sound-toggle"} type="button" role="switch" aria-checked={sound} aria-label="Toggle session end chime" onClick={() => setSound((value) => !value)}><span /></button></div>
+            <div className="focus-side-card focus-sound-card"><div className="sound-icon" aria-hidden="true">♫</div><div className="sound-copy"><h3>Gentle chime</h3><p>Plays when a session ends</p></div><button className="sound-test-button" type="button" onClick={() => void playChime(true)}>Test sound</button><button className={sound ? "sound-toggle on" : "sound-toggle"} type="button" role="switch" aria-checked={sound} aria-label="Toggle session end chime" onClick={() => setSound((value) => { if (!value) unlockAudio(); return !value; })}><span /></button></div>
             <div className="focus-tip"><span aria-hidden="true">✦</span><p><strong>A small tip</strong><br />Before you start, write down the one thing you want to finish.</p></div>
           </aside>
         </section>
