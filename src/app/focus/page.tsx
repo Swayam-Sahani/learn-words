@@ -130,7 +130,7 @@ export default function FocusPage() {
 
   const totalSeconds = (mode === "focus" ? focusMinutes : DURATIONS[mode]) * 60;
   const progress = 1 - remaining / totalSeconds;
-  const circumference = 2 * Math.PI * 118;
+  const circumference = 2 * Math.PI * 99;
   const modeLabel = mode === "focus" ? "Focus session" : mode === "short" ? "Short break" : "Long break";
 
   return (
@@ -160,10 +160,23 @@ export default function FocusPage() {
               {(["focus", "short", "long"] as Mode[]).map((option) => <button key={option} role="tab" aria-selected={mode === option} className={mode === option ? "focus-mode-tab selected" : "focus-mode-tab"} onClick={() => selectMode(option)}>{option === "focus" ? "Focus" : option === "short" ? "Short break" : "Long break"}</button>)}
             </div>
 
-            <div className="focus-clock-wrap" aria-live="polite">
-              <svg className="focus-clock-ring" viewBox="0 0 260 260" aria-hidden="true">
-                <circle className="focus-ring-track" cx="130" cy="130" r="118" />
-                <circle className="focus-ring-progress" cx="130" cy="130" r="118" strokeDasharray={circumference} strokeDashoffset={circumference * (1 - progress)} />
+            <div className={`focus-clock-wrap tomato-timer ${running ? "is-running" : ""}`} aria-live="polite">
+              <svg className="tomato-art" viewBox="0 0 320 300" aria-hidden="true">
+                <defs>
+                  <linearGradient id="tomato-skin" x1=".18" y1=".08" x2=".82" y2=".94"><stop offset="0" stopColor="#ff8466"/><stop offset=".48" stopColor="#ed503d"/><stop offset="1" stopColor="#c9322d"/></linearGradient>
+                  <linearGradient id="tomato-leaf" x1=".15" y1="0" x2=".85" y2="1"><stop offset="0" stopColor="#7f9d59"/><stop offset="1" stopColor="#416444"/></linearGradient>
+                  <radialGradient id="tomato-glow" cx=".28" cy=".22" r=".74"><stop offset="0" stopColor="#fff" stopOpacity=".28"/><stop offset="1" stopColor="#fff" stopOpacity="0"/></radialGradient>
+                </defs>
+                <path className="tomato-body-shadow" d="M160 71c-19-17-44-13-53 8-27-13-56 2-61 31-24 13-30 43-15 65-5 32 18 62 49 68 20 27 48 31 80 16 31 15 60 11 80-16 31-6 54-36 49-68 15-22 9-52-15-65-5-29-34-44-61-31-9-21-34-25-53-8z"/>
+                <path className="tomato-body" d="M160 64c-19-17-44-13-53 8-27-13-56 2-61 31-24 13-30 43-15 65-5 32 18 62 49 68 20 27 48 31 80 16 31 15 60 11 80-16 31-6 54-36 49-68 15-22 9-52-15-65-5-29-34-44-61-31-9-21-34-25-53-8z" fill="url(#tomato-skin)"/>
+                <path className="tomato-sheen" d="M71 113c12-28 40-37 60-24-24-1-38 14-44 37-7 25-1 52 11 72-28-17-39-54-27-85z" fill="url(#tomato-glow)"/>
+                <path className="tomato-stem" d="M159 73c0-14 6-28 17-41"/>
+                <path className="tomato-calyx" d="M160 79c-17-18-39-29-62-23 8 19 25 32 48 35-23-1-43 8-53 26 25 4 48-4 66-23 15 21 39 30 63 24-8-19-25-30-49-32 23-3 39-16 46-35-23-4-44 5-59 28z" fill="url(#tomato-leaf)"/>
+                <path className="tomato-vein" d="M159 82c-17-10-34-17-51-20m53 21c16-11 31-17 48-19m-50 22c-16 3-29 10-39 21m42-18c15 3 27 10 38 20"/>
+              </svg>
+              <svg className="focus-clock-ring" viewBox="0 0 320 300" aria-hidden="true">
+                <circle className="focus-ring-track" cx="160" cy="168" r="99" />
+                <circle className="focus-ring-progress" cx="160" cy="168" r="99" transform="rotate(-90 160 168)" strokeDasharray={circumference} strokeDashoffset={circumference * (1 - progress)} />
               </svg>
               <div className="focus-clock-face"><span className="focus-mode-label">{modeLabel}</span><strong>{formatTime(remaining)}</strong><span className="focus-message">{message}</span></div>
             </div>
