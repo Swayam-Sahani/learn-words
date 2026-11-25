@@ -25,6 +25,7 @@ export default function FocusPage() {
   const [finished, setFinished] = useState(0);
   const endAt = useRef(0);
   const completionHandled = useRef(false);
+  const handledFinish = useRef(0);
 
   useEffect(() => {
     const savedTheme = localStorage.getItem(THEME_KEY) === "dark" ? "dark" : "light";
@@ -70,7 +71,8 @@ export default function FocusPage() {
   }, [running]);
 
   useEffect(() => {
-    if (!finished) return;
+    if (!finished || handledFinish.current === finished) return;
+    handledFinish.current = finished;
     playChime();
     if (mode === "focus") {
       const nextCount = sessions + 1;
