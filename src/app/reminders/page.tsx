@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useEffect, useMemo, useRef, useState } from "react";
 import type { FormEvent } from "react";
+import Navigation from "../Navigation";
 
 type Reminder = { id: string; title: string; dueAt: string; completed: boolean; notified: boolean };
 type RecognitionResult = { transcript: string };
@@ -253,13 +254,7 @@ export default function RemindersPage() {
       <div className="reminder-shell">
         <header className="topbar reminder-topbar">
           <Link className="brand" href="/" aria-label="Wordwise home"><span className="brand-icon"><img className="brand-image" src="/wordwise-mark.svg" alt="" width="40" height="40" /></span><span>wordwise</span></Link>
-          <nav className="top-right reminder-nav" aria-label="Main navigation">
-            <Link className="site-nav-link" href="/">Vocabulary</Link>
-            <Link className="site-nav-link" href="/focus">Focus</Link>
-            <Link className="site-nav-link" href="/budget">Budget</Link>
-            <Link className="site-nav-link active" href="/reminders" aria-current="page">Reminders</Link>
-            <button className="theme-toggle" type="button" onClick={toggleTheme} aria-label={`Switch to ${theme === "light" ? "dark" : "light"} mode`}>{theme === "light" ? "☾ Dark mode" : "☀ Light mode"}</button>
-          </nav>
+          <Navigation current="/reminders" theme={theme} onToggleTheme={toggleTheme} className="reminder-nav" />
         </header>
 
         <section className="reminder-hero">
