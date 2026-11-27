@@ -155,6 +155,7 @@ export default function FocusPage() {
             <Link className="site-nav-link" href="/">Vocabulary</Link>
             <Link className="site-nav-link active" href="/focus" aria-current="page">Focus timer</Link>
             <Link className="site-nav-link" href="/budget">Budget</Link>
+            <Link className="site-nav-link" href="/reminders">Reminders</Link>
             <button className="theme-toggle" type="button" onClick={toggleTheme} aria-label={`Switch to ${theme === "light" ? "dark" : "light"} mode`}>{theme === "light" ? "☾ Dark mode" : "☀ Light mode"}</button>
           </nav>
         </header>
